@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: default
 title: About
-permalink: /about/
 ---
 
+# About Me
 I’m Pooya Karambakhsh. I’ve worn many hats–researcher, academic, civil engineer, geotechnical engineer, data analyst, database manager, … These roles were not just career moves but my way of engaging with world with the purpose of serving and empowering disadvantaged communities–children, women, people living with HIV, and even musicians.
 
 My professional path (LinkedIn Profile) is rooted in a multidisciplinary academic journey:
@@ -21,6 +21,6 @@ As part of my academic research, I have published on a range of topics, includin
 
 Beyond academic publications, I’ve also translated literary and political materials from English to Farsi/Persian. A few examples are
 
-Tennis, Trigonometry, Tornadoes by David Foster Wallace
-Vast Hell by Guillermo Martinez
-Hope, Passion and the New World Order – Mary Zournazi in conversation with Chantal Mouffe and Ernesto Laclau.
+- Tennis, Trigonometry, Tornadoes by David Foster Wallace
+- Vast Hell by Guillermo Martinez
+- Hope, Passion and the New World Order – Mary Zournazi in conversation with Chantal Mouffe and Ernesto Laclau.

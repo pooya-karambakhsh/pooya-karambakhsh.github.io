@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>
+    {% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}
+  </title>
+
+  {% if site.description %}
+    <meta name="description" content="{{ site.description }}">
+  {% endif %}
+
+  {% if site.plugins contains 'jekyll-seo-tag' %}
+    {% seo %}
+  {% endif %}
+
+  <!-- Main stylesheet -->
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      {% include header.html %}
+    </div>
+  </header>
+
+  <main class="site-content">
+    <div class="wrap">
+      {{ content }}
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      {% include footer.html %}
+    </div>
+  </footer>
+</body>
+</html>
