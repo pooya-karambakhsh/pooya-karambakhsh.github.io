@@ -1,7 +1,7 @@
 title: "Pooya Karambakhsh"
 subtitle: "Economist • Data scientist • Researcher"
 description: "Economist • Data scientist • Researcher"
-url: ""          # add later if deploying
+url: "https://pooya-karambakhsh.github.io/"          # add later if deploying
 baseurl: ""      # e.g., /pooya-site if using a subpath
 author:
   name: "Pooya Karambakhsh"
@@ -20,4 +20,4 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-google_analytics: G-XXXXXXXXXX  # replace with tracking ID
+google_analytics: G-VHYW1JQDLQ  # replace with tracking ID
