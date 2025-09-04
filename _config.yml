@@ -3,6 +3,11 @@ subtitle: "Economist • Data scientist • Researcher"
 description: "Economist • Data scientist • Researcher"
 url: ""          # add later if deploying
 baseurl: ""      # e.g., /pooya-site if using a subpath
+author:
+  name: "Pooya Karambakhsh"
+
+
+
 
 markdown: kramdown
 kramdown:
@@ -14,3 +19,5 @@ permalink: pretty
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+google_analytics: G-XXXXXXXXXX  # replace with tracking ID

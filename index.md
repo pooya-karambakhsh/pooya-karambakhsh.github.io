@@ -3,24 +3,22 @@ layout: default
 title: About
 ---
 
-# About Me
-I’m Pooya Karambakhsh. I’ve worn many hats–researcher, academic, civil engineer, geotechnical engineer, data analyst, database manager, … These roles were not just career moves but my way of engaging with world with the purpose of serving and empowering disadvantaged communities–children, women, people living with HIV, and even musicians.
+# *Strategic Data for Economic Insight and Social Impact*
 
-My professional path (LinkedIn Profile) is rooted in a multidisciplinary academic journey:
+--- 
 
-- PhD, MA (Research), and Graduate Certificate in Political Economy from the University of Sydney;
-- MSc and BSc in Geotechnical and Civil Engineering from Sharif University of Technology.
 
-As part of my academic research, I have published on a range of topics, including
+<div class="intro">
+    <img src="/assets/img/pooya_img.jpg" alt="Pooya Karambakhsh" class="main-photo">
+    <h3>Economist and systems designer with 12+ years of cross-disciplinary research experience. I build data-driven tools and frameworks that empower nonprofits, public institutions, and for-purpose ventures to make informed, resilient decisions.</h3>
+    <p>I’m Pooya Karambakhsh — a Sydney-based economist, data strategist, and researcher. My work bridges engineering precision with social science nuance, helping mission-driven organisations turn complex data into actionable insight. Whether it’s modelling economic systems, designing offline-first CRMs, or refactoring legacy workflows, I bring clarity, autonomy, and long-term sustainability to every solution.</p>
+    <div class="button-group">
+        <a href="/portfolio" class="button">View Portfolio</a>
+        <a href="/contact" class="button button-outline">Contact Me</a>
+    </div>
 
-- The world rate of profit (thesis)
-- Australia’s retail workers (thesis and article)
-- Social Structure of Accumulaiton (article)
-- Cone Penetration Test
-- Pressuremeter Test
+</div>
 
-Beyond academic publications, I’ve also translated literary and political materials from English to Farsi/Persian. A few examples are
 
-- Tennis, Trigonometry, Tornadoes by David Foster Wallace
-- Vast Hell by Guillermo Martinez
-- Hope, Passion and the New World Order – Mary Zournazi in conversation with Chantal Mouffe and Ernesto Laclau.
+
+
