@@ -5,6 +5,7 @@ url: "https://pooya-karambakhsh.github.io/"          # add later if deploying
 baseurl: ""      # e.g., /pooya-site if using a subpath
 author:
   name: "Pooya Karambakhsh"
+  email: pooya@dianoetic.com.au
 
 
 
@@ -19,5 +20,7 @@ permalink: pretty
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+
 
 google_analytics: G-VHYW1JQDLQ  # replace with tracking ID

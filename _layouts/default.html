@@ -1,43 +1,21 @@
-<!DOCTYPE html>
+---
+layout: nil
+---
+
+<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
   {% seo %}
+
   {% if site.google_analytics and jekyll.environment == "production" %}
     {% include analytics.html %}
   {% endif %}
-  
 
-    {% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}
-  </title>
-
-  {% if site.description %}
-    <meta name="description" content="{{ site.description }}">
-  {% endif %}
-
-  {% if site.plugins contains 'jekyll-seo-tag' %}
-    {% seo %}
-  {% endif %}
-
-  <!-- Main stylesheet -->
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 </head>
-
-
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VHYW1JQDLQ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VHYW1JQDLQ');
-</script>
-
-
-
 <body>
   <header class="site-header">
     <div class="wrap">
