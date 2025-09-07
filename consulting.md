@@ -4,7 +4,7 @@ title: consulting
 permalink: /consulting/
 ---
 
-# Dianoetic Consulting
+# Consulting
 
 Delivering evidence-driven data strategy, robust systems design and actionable insights for for-purpose organisations and policy teams.
 
@@ -41,4 +41,4 @@ I start from first principles, crafting maintainable solutions that fit your tea
 
 Visit www.dianoetic.com.au to explore how tailored systems and strategic analysis can amplify your impact.  
 
-Or reach out directly: 
+Or reach out directly: pooya@dianoetic.com.au 

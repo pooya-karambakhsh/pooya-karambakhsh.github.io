@@ -1,23 +1,49 @@
 ---
 layout: default
-title: About
+title: Home
 ---
 
 # *Strategic Data for Economic Insight and Social Impact*
 
 --- 
 
-
-<div class="intro">
-    <img src="/assets/img/pooya_img.jpg" alt="Pooya Karambakhsh" class="main-photo">
-    <h3>Economist and systems designer with 12+ years of cross-disciplinary research experience. I build data-driven tools and frameworks that empower nonprofits, public institutions, and for-purpose ventures to make informed, resilient decisions.</h3>
-    <p>I’m Pooya Karambakhsh — a Sydney-based economist, data strategist, and researcher. My work bridges engineering precision with social science nuance, helping mission-driven organisations turn complex data into actionable insight. Whether it’s modelling economic systems, designing offline-first CRMs, or refactoring legacy workflows, I bring clarity, autonomy, and long-term sustainability to every solution.</p>
-    <div class="button-group">
-        <a href="/portfolio" class="button">View Portfolio</a>
-        <a href="/contact" class="button button-outline">Contact Me</a>
+<section class="hero">
+  <div class="hero-content">
+    <div class="hero-text">
+      <h1>Pooya Karambakhsh</h1>
+      <h2>Economics, data, and systems thinking for equitable futures</h2>
+      <p>
+        I’m an economist, data strategist, and researcher working at the intersection of economic insight, technical systems, and social impact.
+        Over more than a decade, I’ve helped nonprofits, for‑purpose organisations, and public institutions turn complex data into actionable insight — designing solutions that are rigorous, human‑centred, and built to last.
+      </p>
+      <p><a href="/about" class="read-more">Read more about my background →</a></p>
     </div>
+    <div class="hero-image">
+      <img src="/assets/img/headshot_friendly.png" alt="Pooya Karambakhsh headshot">
+    </div>
+  </div>
+</section>
 
-</div>
+# Explore My Work
+## [Economic Analysis](/economic.md)
+Research and publications on global profit trends, labour markets, and institutional change — with essays, reviews, and commentary on political economy at [Think Hammerly](thinkhammerly.wordpress.com).
+
+---
+
+## [Portfolio](/portfolio.md)
+Selected academic research, technical builds, and consulting projects — from numerical simulations of granular soils to custom CRM architectures for mission‑driven organisations.
+
+---
+
+## [Consulting](/consulting.md)
+Through [Dianoetic](https://www.dianoetic.com.au), I help organisations design and implement data strategies, integrate systems, and build tools that support their mission.
+
+---
+
+## Let’s Connect
+If you’re looking for economic insight, data strategy, or systems thinking that aligns with a mission for equitable futures, I’d be glad to talk.
+[Contact Me](/contact.md)
+
 
 
 

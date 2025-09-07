@@ -6,43 +6,24 @@ permalink: /economic/
 
 
 # Economic Analysis
+I am an economist and researcher with a PhD and MA (Research) in Political Economy from the University of Sydney.
+My work examines long‑term economic trends, labour market structures, and the institutional forces that shape inequality and development.
+This page is a brief introduction to my academic and analytical work — for the full collection of essays, reviews, and in‑depth analyses, visit my blog Think Hammerly.
 
-Welcome to the Economic Analysis section—your gateway to data-driven essays and semi-academic explorations of political-economic issues. Here, I apply classical and political economy frameworks to real-world puzzles, all with one aim: to surface the structures driving inequality and suggest paths to empower disadvantaged communities.
+## Publications & Research Outputs
+My economic research has been published in peer‑reviewed journals, conference proceedings, and academic theses. Selected works include:
+- The World Rate of Profit — Doctoral thesis analysing global profit trends and their structural determinants.
+- Australia’s Retail Workers — Master’s thesis and journal article (Global Labour Journal, 2020) examining labour power in the retail sector.
+- Social Structure of Accumulation — Journal article exploring macroeconomic phases and institutional change.
+- Conference Papers — Presentations on accumulation theory and related political‑economic frameworks.
 
----
 
-## What You’ll Find Here
+## About Think Hammerly
+Think Hammerly is my dedicated space for exploring political‑economic questions in a semi‑academic but accessible style.
+It brings together:
+- Essays — Applying classical and political economy frameworks to contemporary issues.
+- Reviews — Critical readings of books, articles, and reports.
+- Analyses — Data‑driven explorations of profit dynamics, labour markets, and policy impacts.
+The aim is to deepen understanding of the social world while keeping the writing approachable for readers outside academia.
 
-- Original essays grounded in rigorous theory and empirical insight  
-- Deep dives into profit dynamics, labour markets and accumulation structures  
-- Reviews of books and articles from an economist’s perspective  
-- Reflections on policy impacts and reform proposals  
-
----
-
-## About This Work
-
-My writing draws on a multidisciplinary foundation:
-
-- PhD, MA (Research) & Graduate Certificate in Political Economy, The University of Sydney  
-- MSc & BSc in Civil and Geotechnical Engineering, Sharif University of Technology  
-- Peer-reviewed publications on Australia’s retail workers, global profit rates and macro-economic phases  
-- Conference papers on accumulation theory and technical studies in geotechnical methods  
-
-Each post combines theoretical rigour with clear, approachable language—because understanding complex systems shouldn’t require insider status.
-
----
-
-## Meet the Author
-
-I’m Pooya Karambakhsh: economist, data strategist and researcher. My career spans geotechnical engineering, nonprofit data roles and policy advocacy. Whether I’m building analytical tools or probing systemic inequalities in print, my goal is the same—to turn evidence into impact.
-
----
-
-<div style="margin-top: 2em; text-align: center;">
-  <a href="https://thinkhammerly.wordpress.com" class="button">Explore Economic Analysis on Think Hammerly</a>
-</div>
-
----
-
-*Ready for in-depth economic insights? Click the button above to dive into Think Hammerly’s full collection.*
+<div style="margin-top: 2em; text-align: center;"><a href="https://thinkhammerly.wordpress.com" class="button">Explore Think Hammerly</a></div>

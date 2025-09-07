@@ -13,7 +13,7 @@
 // Global styles
 html, body {
   height: 100%;
-  background-color: #ffffff; // White background
+  background-color: #F3EFE6; 
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   line-height: 1.5;
   color: #222;
@@ -22,7 +22,7 @@ html, body {
 // Layout wrappers
 header,
 footer {
-  background-color: #ffffff; // White to match body
+  background-color: #F3EFE6; 
   padding: 1rem 2rem;
   border-bottom: 1px solid #e0e0e0;
 
@@ -34,7 +34,7 @@ footer {
 }
 
 main {
-  background-color: #ffffff;
+  background-color: #F3EFE6;
   padding: 2rem;
   max-width: 960px; // Comfortable reading width
   margin: 0 auto;   // Centres the content
@@ -46,7 +46,7 @@ main {
 
 body {
   font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  background-color: #ffffff;
+  background-color: #F3EFE6;
   color: #222;
   margin: 0;
 }
@@ -57,7 +57,7 @@ body {
   justify-content: space-between; // brand left, nav right
   align-items: center;
   padding: 1.5rem 2rem;
-  background-color: #ffffff;
+  background-color: #F3EFE6;
   border-bottom: 1px solid #e0e0e0;
 }
 
@@ -104,9 +104,9 @@ body {
   height: auto;              // keep proportions
   float: right;               // push to the right of text
   margin: 0 0 1rem 1.5rem;    // space between image and text
-  border-radius: 50%;         // perfect circle if image is square
+  border-radius: 0;         // perfect circle if image is square
   object-fit: cover;          // crop to fill the oval nicely
-  shape-outside: ellipse();   // lets text wrap in an oval shape
+  // shape-outside: ellipse();   // lets text wrap in an oval shape
 }
 
 @media (max-width: 600px) {
@@ -134,4 +134,60 @@ hr {
   margin: 2rem 0;           // space above and below
   border: none;             // remove default browser style
   border-top: 1px solid #ccc; // subtle custom line
+}
+
+
+.hero {
+  display: flex;
+  justify-content: center;
+  padding: 2rem 1rem;
+  background: #F3EFE6;
+
+  .hero-content {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1100px;
+    align-items: center;
+    gap: 2rem;
+  }
+
+  .hero-text {
+    flex: 1 1 500px;
+  }
+
+  .hero-text h1 {
+    margin: 0 0 0.25em;
+    font-size: 2.2rem;
+  }
+
+  .hero-text h2 {
+    margin: 0 0 1em;
+    font-weight: 400;
+    font-size: 1.3rem;
+    color: #555;
+  }
+
+  .hero-text p {
+    line-height: 1.6;
+  }
+
+  .read-more {
+    display: inline-block;
+    margin-top: 1rem;
+    font-weight: 600;
+    text-decoration: none;
+    color: #005ea5;
+  }
+
+  .hero-image {
+    flex: 0 0 300px;
+    max-width: 300px;
+  }
+
+  .hero-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+    display: block;
+  }
 }
