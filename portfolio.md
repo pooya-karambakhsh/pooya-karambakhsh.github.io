@@ -8,9 +8,18 @@ permalink: /portfolio/
 
 Over more than a decade, my work has spanned economic research, data systems architecture, and engineering — from analysing global profit trends to building offline‑capable CRMs and modelling the behaviour of granular soils.  
 This portfolio presents selected projects that illustrate the breadth of my expertise and the impact of my work.  
-For a complete professional history, you can [download my CV] or visit my [LinkedIn profile](https://www.linkedin.com/in/pooya-karambakhsh/).
+For a complete professional history, you can <a href="/assets/CV.pdf">download my CV</a> or <a href="https://www.linkedin.com/in/pooya-karambakhsh">visit my LinkedIn profile</a>
 
 ---
+
+## **Current Focus**
+
+### **BiblioPy**
+An open‑source Python tool for managing, searching, and exporting bibliographic data without reliance on proprietary platforms. Designed for researchers, writers, and organisations who need a lightweight, offline‑capable way to organise references. Built with simplicity, transparency, and long‑term maintainability in mind.
+
+### **Offline CRM**
+A modular, offline‑first customer relationship management system tailored for nonprofits and advocacy groups working in low‑connectivity environments. Combines robust data capture with seamless syncing when online, ensuring teams can operate effectively anywhere without sacrificing data integrity.
+
 
 ## **Economic Research & Analysis**
 
@@ -59,5 +68,5 @@ Provided training, documentation, and strategic reporting to improve program ass
 ---
 
 ### **Download Full CV**  
-For detailed employment history, publications, and technical skills, [download my CV] or visit my [LinkedIn profile](https://www.linkedin.com/in/pooya-karambakhsh/)..
+For detailed employment history, publications, and technical skills, [download my CV] or visit my [LinkedIn profile](https://www.linkedin.com/in/pooya-karambakhsh/).
 

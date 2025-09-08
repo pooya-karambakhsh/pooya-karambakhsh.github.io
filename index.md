@@ -11,7 +11,6 @@ title: Home
   <div class="hero-content">
     <div class="hero-text">
       <h1>Pooya Karambakhsh</h1>
-      <h2>Economics, data, and systems thinking for equitable futures</h2>
       <p>
         I’m an economist, data strategist, and researcher working at the intersection of economic insight, technical systems, and social impact.
         Over more than a decade, I’ve helped nonprofits, for‑purpose organisations, and public institutions turn complex data into actionable insight — designing solutions that are rigorous, human‑centred, and built to last.
@@ -42,8 +41,9 @@ Through [Dianoetic](https://www.dianoetic.com.au), I help organisations design a
 
 ## Let’s Connect
 If you’re looking for economic insight, data strategy, or systems thinking that aligns with a mission for equitable futures, I’d be glad to talk.
-[Contact Me](/contact.md)
 
+<br><br>
+<a href="/contact" class="btn-primary">Contact Me</a>
 
 
 
