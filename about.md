@@ -8,7 +8,7 @@ permalink: /about/
 
 <img src="./assets/img/headshot_friendly.png" alt="Pooya Karambakhsh" class="main-photo">
 
-I’m Pooya Karambakhsh — an economist, data strategist and researcher who develops practical, human‑centred tools, writes on political economy, and partners with for‑purpose organisations to drive impact. My work bridges rigorous economic analysis, modular system design and field‑ready implementation. You can explore my [full CV](/assets/docs/Pooya-Karambakhsh-CV.pdf) or connect with me on [LinkedIn](https://www.linkedin.com/in/pooya-karambakhsh) to see recent projects and collaborations.
+I’m Pooya Karambakhsh — an economist, data strategist and researcher who develops practical, human‑centred tools, writes on political economy, and partners with for‑purpose organisations to drive impact. My work bridges rigorous economic analysis, modular system design and field‑ready implementation. You can explore my [full CV](./assets/docs/Pooya-Karambakhsh-CV.pdf) or connect with me on [LinkedIn](https://www.linkedin.com/in/pooya-karambakhsh) to see recent projects and collaborations.
 
 ---
 
