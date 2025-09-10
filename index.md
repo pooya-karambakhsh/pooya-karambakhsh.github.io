@@ -18,7 +18,7 @@ title: Home
       <p><a href="/about" class="read-more">Read more about my background →</a></p>
     </div>
     <div class="hero-image">
-      <img src="/assets/img/headshot_friendly.png" alt="Pooya Karambakhsh headshot">
+      <img src="./assets/img/headshot_friendly.png" alt="Pooya Karambakhsh headshot">
     </div>
   </div>
 </section>
