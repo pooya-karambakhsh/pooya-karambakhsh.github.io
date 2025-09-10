@@ -8,7 +8,11 @@ permalink: /about/
 
 <img src="{{ '/assets/img/headshot_friendly.png' | relative_url }}" alt="Pooya Karambakhsh" class="main-photo">
 
-I’m Pooya Karambakhsh — an economist, data strategist and researcher who develops practical, human‑centred tools, writes on political economy, and partners with for‑purpose organisations to drive impact. My work bridges rigorous economic analysis, modular system design and field‑ready implementation. You can explore my [full CV](./assets/docs/Pooya-Karambakhsh-CV.pdf) or connect with me on [LinkedIn](https://www.linkedin.com/in/pooya-karambakhsh) to see recent projects and collaborations.
+I’m Pooya Karambakhsh — an economist, data strategist, and researcher with nearly two decades of interdisciplinary experience spanning political economy, geotechnical engineering, and applied data systems. I design and implement **human‑centred, technically rigorous data solutions** that help nonprofits, advocacy groups, and public institutions turn complex information into actionable insight.
+
+My work bridges **rigorous economic analysis**, **modular system design**, and **field‑ready implementation**. I combine hands‑on technical expertise with a collaborative, capacity‑building approach, enabling mission‑driven teams to work effectively in resource‑constrained environments.
+
+[📄 Download CV (PDF)](/assets/docs/Pooya-Karambakhsh-CV.pdf) | [🔗 Connect on LinkedIn](https://www.linkedin.com/in/pooya-karambakhsh)
 
 ---
 
@@ -48,7 +52,6 @@ Through Dianoetic, I take on select consulting and integration projects in paral
 - Automated more than 500 hours of manual work at *Dress for Success* using Salesforce flows and Microsoft Power Automate  
 - Led an ETL migration at *Bobby Goldsmith Foundation*, delivering a $20 000 cost saving  
 - Peer‑reviewed journal article in *Global Labour Journal* (2020) and multiple conference proceedings  
-- View my [full CV](/assets/docs/Pooya-Karambakhsh-CV.pdf) or connect on [LinkedIn](https://www.linkedin.com/in/pooya-karambakhsh) for more details  
 
 ---
 
