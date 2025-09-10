@@ -44,6 +44,6 @@ Through [Dianoetic](https://www.dianoetic.com.au), I work with organisations to 
 If you’re looking for economic insight, data strategy, or systems thinking that aligns with a mission for equitable futures, I’d be glad to talk.
 
 <br><br>
-<a href="/contact" class="btn-primary">Contact Me</a>
+<a href="/contact">Contact Me →</a>
 
 

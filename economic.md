@@ -35,5 +35,5 @@ My economic research has been published in peer‑reviewed journals, conference 
 The aim is to deepen understanding of the social world while keeping the writing approachable for readers outside academia.
 
 <div style="margin-top: 2em; text-align: center;">
-  <a href="https://thinkhammerly.wordpress.com" class="button">Explore Think Hammerly →</a>
+  <a href="https://thinkhammerly.wordpress.com">Explore Think Hammerly →</a>
 </div>
