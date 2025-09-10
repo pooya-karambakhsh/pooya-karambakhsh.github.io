@@ -6,9 +6,9 @@ permalink: /portfolio/
 
 # **Portfolio**
 
-Over more than a decade, my work has spanned economic research, data systems architecture, and engineering — from analysing global profit trends to building offline‑capable CRMs and modelling the behaviour of granular soils.  
+Over two decades, my work has spanned economic research, data systems architecture, and engineering — from analysing global profit trends to building offline‑capable CRMs and modelling the behaviour of granular soils.  
 This portfolio presents selected projects that illustrate the breadth of my expertise and the impact of my work.  
-For a complete professional history, you can <a href="/assets/CV.pdf">download my CV</a> or <a href="https://www.linkedin.com/in/pooya-karambakhsh">visit my LinkedIn profile</a>
+For a complete professional history, you can <a href="/assets/docs/Pooya-Karambakhsh-CV.pdf">download my CV</a> or <a href="https://www.linkedin.com/in/pooya-karambakhsh">visit my LinkedIn profile</a>.
 
 ---
 
@@ -20,6 +20,7 @@ An open‑source Python tool for managing, searching, and exporting bibliographi
 ### **Offline CRM**
 A modular, offline‑first customer relationship management system tailored for nonprofits and advocacy groups working in low‑connectivity environments. Combines robust data capture with seamless syncing when online, ensuring teams can operate effectively anywhere without sacrificing data integrity.
 
+---
 
 ## **Economic Research & Analysis**
 
@@ -29,8 +30,13 @@ Developed a new approach to measuring and interpreting the world rate of profit,
 
 ### **The Powers of Australian Retail Workers**  
 *Published in Global Labour Journal, Vol. 11, Issue 2 (2020)*  
-Investigated the structural and associational power of retail workers in Australia as part of the global working class. The study examined labour market dynamics, union density, and transnational corporate structures, situating retail labour within global production and distribution systems.
+Investigated the structural and associational power of retail workers in Australia as part of the global working class. The study examined labour issues, union density, and transnational corporate structures, situating retail labour within global production and distribution systems.
 
+<br><br>
+I also share ongoing commentary and analysis through [Think Hammerly](https://thinkhammerly.wordpress.com), a space for essays, reviews, and data‑driven explorations of profit dynamics, labour issues, and policy impacts. 
+<div style="margin-top: 2em; text-align: center;">
+  <a href="https://thinkhammerly.wordpress.com" class="button">Explore Think Hammerly →</a>
+</div>
 ---
 
 ## **Technical & Engineering Projects**
@@ -40,7 +46,7 @@ Investigated the structural and associational power of retail workers in Austral
 Designed and implemented numerical models of geotechnical problems using Discrete Element, Finite Element, and Finite Difference Methods. Enhanced Yade and Abaqus with C++ and Python scripts to simulate particle flow and penetrometer tests, validated through laboratory experiments.  
 Produced visualisations and technical reports for academic and industry audiences.
 
-### **Geotechnical Engineer – Nargesi Earthfill Dam**  
+### **Geotechnical Consulting Engineer – Nargesi Earthfill Dam**  
 *Tamavan Consulting Engineers, Tehran, Iran (2011–2012)*  
 Managed an in‑situ laboratory team to oversee geotechnical design and construction for dam, road, and tunnel works. Delivered technical and financial reports, and developed 3D visualisations to support project planning and stakeholder communication.
 
@@ -49,24 +55,16 @@ Managed an in‑situ laboratory team to oversee geotechnical design and construc
 ## **Data Systems & Consulting**
 
 ### **Database Development for The Australia Institute**  
-*Database Specialist (2025–present)*  
+*Database Specialist (Jan 2025 – Aug 2025)*  
 Designed and built a complete Salesforce CRM tailored to senior management needs, integrating multiple flows and forms. Developed NationBuilder–Salesforce automation using Zapier and Python, reducing development costs by over 75% and cutting annual subscription costs by $3k.
 
 ### **Systems Management for Dress for Success NSW & ACT**  
-*Data and Systems Manager (2024–present)*  
+*Data and Systems Manager (Jan 2024 – Aug 2025)*  
 Led CRM (Salesforce) enhancements, including Marketing Cloud Account Engagement (Pardot), delivering a 20% project cost saving and reducing subscription costs by up to 40%.  
 Automated manual processes, saving over 500 annual hours, and implemented integrations with Mailchimp, Funraisin, Calendly, Zapier, and Humanitix.  
 Provided training, documentation, and strategic reporting to improve program assessment and fundraising outcomes.
 
 ---
 
-## **Additional Selected Work**
-- **Think Hammerly** — Research, writing, and web administration on political economic issues, optimised for search visibility.  
-- **Support Act** — Data and systems administration for a national music industry charity.  
-- **Save the Children Australia** — Multi‑state program quality support, data analysis, and disaster response work.
-
----
-
 ### **Download Full CV**  
-For detailed employment history, publications, and technical skills, [download my CV] or visit my [LinkedIn profile](https://www.linkedin.com/in/pooya-karambakhsh/).
-
+For detailed employment history, publications, and technical skills, [download my CV](/assets/docs/Pooya-Karambakhsh-CV.pdf) or visit my [LinkedIn profile](https://www.linkedin.com/in/pooya-karambakhsh/).

@@ -13,7 +13,7 @@ title: Home
       <h1>Pooya Karambakhsh</h1>
       <p>
         I’m an economist, data strategist, and researcher working at the intersection of economic insight, technical systems, and social impact.
-        Over more than a decade, I’ve helped nonprofits, for‑purpose organisations, and public institutions turn complex data into actionable insight — designing solutions that are rigorous, human‑centred, and built to last.
+        Over more than a decade, I’ve helped nonprofits and for‑purpose organisations turn complex data into actionable insight — designing solutions that are rigorous, human‑centred, and built to last.
       </p>
       <p><a href="/about" class="read-more">Read more about my background →</a></p>
     </div>
@@ -24,18 +24,19 @@ title: Home
 </section>
 
 # Explore My Work
+
 ## [Economic Analysis](/economic.md)
-Research and publications on global profit trends, labour markets, and institutional change — with essays, reviews, and commentary on political economy at [Think Hammerly](thinkhammerly.wordpress.com).
+Research and publications on the world rate of profit, labour issues, and theories of capital accumulation — including peer‑reviewed work such as *The Powers of Australian Retail Workers* and my doctoral thesis *Analysing the World Rate of Profit: A New Approach*. My work combines historical data analysis with political economy frameworks to illuminate long‑term economic dynamics.
 
 ---
 
 ## [Portfolio](/portfolio.md)
-Selected academic research, technical builds, and consulting projects — from numerical simulations of granular soils to custom CRM architectures for mission‑driven organisations.
+A selection of projects spanning economic research, data systems architecture, and applied analytics — from modelling global profit trends to developing offline‑first CRMs, automating ETL pipelines, and delivering strategic reporting for mission‑driven organisations.
 
 ---
 
 ## [Consulting](/consulting.md)
-Through [Dianoetic](https://www.dianoetic.com.au), I help organisations design and implement data strategies, integrate systems, and build tools that support their mission.
+Through [Dianoetic](https://www.dianoetic.com.au), I work with organisations to design and implement data strategies, integrate systems, and build tools that support their mission. This includes analysing complex datasets, producing actionable insights, and creating tailored reporting frameworks that inform decision‑making and drive impact.
 
 ---
 
@@ -44,7 +45,5 @@ If you’re looking for economic insight, data strategy, or systems thinking tha
 
 <br><br>
 <a href="/contact" class="btn-primary">Contact Me</a>
-
-
 
 
