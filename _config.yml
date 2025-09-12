@@ -1,8 +1,8 @@
 title: "Pooya Karambakhsh"
 subtitle: "Economics, data, and systems thinking for equitable futures"
 description: "Economics, data, and systems thinking for equitable futures"
-url: "https://pooya-karambakhsh.github.io/"          # add later if deploying
-baseurl: ""      # e.g., /pooya-site if using a subpath
+url: "https://pooya-karambakhsh.github.io"        
+baseurl: ""      
 author:
   name: "Pooya Karambakhsh"
   email: pooya@dianoetic.com.au
