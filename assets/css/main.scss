@@ -340,3 +340,17 @@ hr {
     padding: 1.5rem 1rem;
   }
 }
+
+.float-right {
+  float: right;
+  max-width: 250px;
+  margin: 0 0 1rem 1.5rem;
+}
+
+@media (max-width: 600px) {
+  .float-right {
+    float: none;
+    display: block;
+    margin: 0 auto 1rem auto;
+  }
+}

@@ -25,6 +25,7 @@ A modular, offline‑first customer relationship management system tailored for 
 ## **Economic Research & Analysis**
 
 ### **Analysing the World Rate of Profit**  
+<img src="{{ '/assets/img/WRP.gif' | relative_url }}" alt="Particle Flow in Soil by Pooya Karambakhsh" class="float-right">
 *PhD Thesis, The University of Sydney (2024)*  
 Developed a new approach to measuring and interpreting the world rate of profit, contributing to debates in political economy on global capital accumulation. The research combined historical data analysis with theoretical innovation, offering a framework for understanding long‑term profitability trends.
 
@@ -42,10 +43,12 @@ I also share ongoing commentary and analysis through [Think Hammerly](https://th
 ## **Technical & Engineering Projects**
 
 ### **Numerical Simulation of Particle Flow in Granular Soil**  
+<img src="{{ '/assets/img/particle_flow.gif' | relative_url }}" alt="Particle Flow in Soil by Pooya Karambakhsh" class="float-right">
 *ARC Centre for Geotechnical Science and Engineering, University of Newcastle (2012–2016)*  
 Designed and implemented numerical models of geotechnical problems using Discrete Element, Finite Element, and Finite Difference Methods. Enhanced Yade and Abaqus with C++ and Python scripts to simulate particle flow and penetrometer tests, validated through laboratory experiments.  
 Produced visualisations and technical reports for academic and industry audiences.
 
+<br><br>
 ### **Geotechnical Consulting Engineer – Nargesi Earthfill Dam**  
 *Tamavan Consulting Engineers, Tehran, Iran (2011–2012)*  
 Managed an in‑situ laboratory team to oversee geotechnical design and construction for dam, road, and tunnel works. Delivered technical and financial reports, and developed 3D visualisations to support project planning and stakeholder communication.
