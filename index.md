@@ -18,7 +18,7 @@ title: Home
       <p><a href="/about" class="read-more">Read more about my background →</a></p>
     </div>
     <div class="hero-image">
-      <img src="./assets/img/headshot_friendly.png" alt="Pooya Karambakhsh headshot">
+      <img src="./assets/img/headshot_friendly.png" alt="Pooya Karambakhsh">
     </div>
   </div>
 </section>
@@ -47,3 +47,20 @@ If you’re looking for economic insight, data strategy, or systems thinking tha
 <a href="/contact">Contact Me →</a>
 
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Pooya Karambakhsh",
+  "url": "https://pooya-karambakhsh.github.io",
+  "sameAs": [
+    "https://www.linkedin.com/in/pooya-karambakhsh",
+    "https://www.dianoetic.com.au"
+  ],
+  "jobTitle": "Economist, Data Strategist, Researcher",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Dianoetic"
+  }
+}
+</script>
