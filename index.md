@@ -10,7 +10,7 @@ title: Home
 <section class="hero">
   <div class="hero-content">
     <div class="hero-text">
-      <h1>Pooya Karambakhsh</h1>
+      <h2>Pooya Karambakhsh</h2>
       <p>
         I’m an economist, data strategist, and researcher working at the intersection of economic insight, technical systems, and social impact.
         Over more than a decade, I’ve helped nonprofits and for‑purpose organisations turn complex data into actionable insight — designing solutions that are rigorous, human‑centred, and built to last.
