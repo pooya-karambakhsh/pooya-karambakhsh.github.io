@@ -66,11 +66,11 @@ Managed an in‑situ laboratory team to oversee geotechnical design and construc
 
 ## **Data Systems & Consulting**
 
-### **Database Development for The Australia Institute**  
+### **Database Development**  
 *Database Specialist (Jan 2025 – Aug 2025)*  
 Designed and built a complete Salesforce CRM tailored to senior management needs, integrating multiple flows and forms. Developed NationBuilder–Salesforce automation using Zapier and Python, reducing development costs by over 75% and cutting annual subscription costs by $3k.
 
-### **Systems Management for Dress for Success NSW & ACT**  
+### **Systems Management**  
 *Data and Systems Manager (Jan 2024 – Aug 2025)*  
 Led CRM (Salesforce) enhancements, including Marketing Cloud Account Engagement (Pardot), delivering a 20% project cost saving and reducing subscription costs by up to 40%.  
 Automated manual processes, saving over 500 annual hours, and implemented integrations with Mailchimp, Funraisin, Calendly, Zapier, and Humanitix.  
