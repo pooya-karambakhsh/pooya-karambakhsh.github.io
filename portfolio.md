@@ -14,8 +14,11 @@ For a complete professional history, you can <a href="/assets/docs/Pooya-Karamba
 
 ## **Current Focus**
 
+### **Macroeconomic and Research Mentoring**
+Working with the National Reserve Bank of Tonga to strengthen capacity in research, data analysis, and writing. The focus is on building methodological rigour, improving clarity in outputs, and embedding reproducible practices that support the Bank’s institutional development.
+
 ### **BiblioPy**
-An open‑source Python tool for managing, searching, and exporting bibliographic data without reliance on proprietary platforms. Designed for researchers, writers, and organisations who need a lightweight, offline‑capable way to organise references. Built with simplicity, transparency, and long‑term maintainability in mind.
+An open‑source Python tool for bibliometric analysis, including academic productivity and collaboration, without reliance on proprietary platforms. Designed for researchers, writers, and organisations who need a lightweight, offline‑capable way to organise references. Built with simplicity, transparency, and long‑term maintainability in mind.
 
 ### **Offline CRM**
 A modular, offline‑first customer relationship management system tailored for nonprofits and advocacy groups working in low‑connectivity environments. Combines robust data capture with seamless syncing when online, ensuring teams can operate effectively anywhere without sacrificing data integrity.
@@ -47,8 +50,14 @@ I also share ongoing commentary and analysis through [Think Hammerly](https://th
 *ARC Centre for Geotechnical Science and Engineering, University of Newcastle (2012–2016)*  
 Designed and implemented numerical models of geotechnical problems using Discrete Element, Finite Element, and Finite Difference Methods. Enhanced Yade and Abaqus with C++ and Python scripts to simulate particle flow and penetrometer tests, validated through laboratory experiments.  
 Produced visualisations and technical reports for academic and industry audiences.
-
 <br><br>
+
+### **Horizontal Stress of Sandy Soils Using CPT**  
+<img src="{{ '/assets/img/CPT.png' | relative_url }}" alt="Cone Penetraiton Test in Sandy Soils by Pooya Karambakhsh" class="float-right">
+Sharif University of Technology, Tehran, Iran (MSc Research)
+Investigated the determination of in‑situ horizontal stress in sandy soils through calibration chamber experiments with Cone Penetration Tests (CPT). Developed and validated empirical relationships between cone tip resistance and the coefficient of earth pressure at rest (K₀), offering a more reliable method for estimating lateral stresses in cohesionless soils without the need for undisturbed sampling.
+<br><br>
+
 ### **Geotechnical Consulting Engineer – Nargesi Earthfill Dam**  
 *Tamavan Consulting Engineers, Tehran, Iran (2011–2012)*  
 Managed an in‑situ laboratory team to oversee geotechnical design and construction for dam, road, and tunnel works. Delivered technical and financial reports, and developed 3D visualisations to support project planning and stakeholder communication.
