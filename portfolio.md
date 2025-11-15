@@ -58,7 +58,8 @@ Sharif University of Technology, Tehran, Iran (MSc Research)
 Investigated the determination of in‑situ horizontal stress in sandy soils through calibration chamber experiments with Cone Penetration Tests (CPT). Developed and validated empirical relationships between cone tip resistance and the coefficient of earth pressure at rest (K₀), offering a more reliable method for estimating lateral stresses in cohesionless soils without the need for undisturbed sampling.
 <br><br>
 
-### **Geotechnical Consulting Engineer – Nargesi Earthfill Dam**  
+### **Geotechnical Consulting Engineer – Nargesi Earthfill Dam**
+<img src="{{ '/assets/img/Nargesi.jpg' | relative_url }}" alt="Pooya Karambakhsh at Nargesi Dam Construction Project" class="float-right">  
 *Tamavan Consulting Engineers, Tehran, Iran (2011–2012)*  
 Managed an in‑situ laboratory team to oversee geotechnical design and construction for dam, road, and tunnel works. Delivered technical and financial reports, and developed 3D visualisations to support project planning and stakeholder communication.
 
@@ -68,7 +69,7 @@ Managed an in‑situ laboratory team to oversee geotechnical design and construc
 
 ### **Database Development**  
 *Database Specialist (Jan 2025 – Aug 2025)*  
-Designed and built a complete Salesforce CRM tailored to senior management needs, integrating multiple flows and forms. Developed NationBuilder–Salesforce automation using Zapier and Python, reducing development costs by over 75% and cutting annual subscription costs by $3k.
+Designed and built a complete Salesforce CRM tailored to senior management needs. Built flows in Salesforce to automate tasks and improve processes. Implemented inter-system integration using Zapier and Python. Reduced development costs by over 75% and cut annual subscription costs by $3k.
 
 ### **Systems Management**  
 *Data and Systems Manager (Jan 2024 – Aug 2025)*  
