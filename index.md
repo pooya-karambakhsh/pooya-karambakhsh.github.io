@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# *Strategic Data for Economic Insight and Social Impact*
+# *Economics, Research, and Data Strategy for Social Impact*
 
 --- 
 

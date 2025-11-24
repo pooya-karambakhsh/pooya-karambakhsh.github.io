@@ -6,7 +6,8 @@ permalink: /portfolio/
 
 # **Portfolio**
 
-Over two decades, my work has spanned economic research, data systems architecture, and engineering — from analysing global profit trends to building offline‑capable CRMs and modelling the behaviour of granular soils.  
+My work bridges economic research, data systems architecture, and engineering — connecting theory with practice across disciplines.
+From analysing global profitability trends to building offline‑first CRMs and modelling the behaviour of granular soils,  these projects reflect a career built on curiosity, rigour, and impact.
 This portfolio presents selected projects that illustrate the breadth of my expertise and the impact of my work.  
 For a complete professional history, you can <a href="/assets/docs/Pooya-Karambakhsh-CV.pdf">download my CV</a> or <a href="https://www.linkedin.com/in/pooya-karambakhsh">visit my LinkedIn profile</a>.
 
