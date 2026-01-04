@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Consulting
-permalink: /consulting/
+title: Collaborate
+permalink: /collaborate/
 ---
 
-# Consulting
+# Collaborate
 
-Delivering evidence‑driven data strategy, robust systems design, and actionable insights for for‑purpose organisations.
+I am available for select collaborations in research, policy analysis, and nonprofit data strategy through [Dianoetic](https://www.dianoetic.com.au).
 
 ---
 

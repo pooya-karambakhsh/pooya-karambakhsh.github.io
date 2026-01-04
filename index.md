@@ -35,8 +35,8 @@ A selection of projects spanning economic research, data systems architecture, a
 
 ---
 
-## [Consulting](/consulting.md)
-Through [Dianoetic](https://www.dianoetic.com.au), I work with organisations to design and implement data strategies, integrate systems, and build tools that support their mission. This includes analysing complex datasets, producing actionable insights, and creating tailored reporting frameworks that inform decision‑making and drive impact.
+## [Collaborate](/collaborate.md)
+Through [Dianoetic](https://www.dianoetic.com.au), I partner with organisations on research and data strategy projects. My work includes supporting not‑for‑profits with database management, improving reporting processes, and applying economic analysis to fiscal and policy challenges. These collaborations focus on building practical data solutions and producing clear, actionable insights that strengthen decision‑making and impact.
 
 ---
 
