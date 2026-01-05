@@ -48,19 +48,19 @@ Through Dianoetic, I take on select consulting and integration projects in paral
 ## Credentials & Highlights
 
 - 12+ years in academic research and 7+ years in data roles within mission‑driven organisations  
-- Designed a Salesforce CRM at *The Australia Institute*, saving over $50 000 in development costs and $3 000 p.a. in subscriptions  
-- Automated more than 500 hours of manual work at *Dress for Success* using Salesforce flows and Microsoft Power Automate  
-- Led an ETL migration at *Bobby Goldsmith Foundation*, delivering a $20 000 cost saving  
-- Peer‑reviewed journal article in *Global Labour Journal* (2020) and multiple conference proceedings  
+- Designed a Salesforce CRM, saving over $50 000 in development costs and $3 000 p.a. in subscriptions  
+- Automated more than 500 hours of manual work using Salesforce flows and Microsoft Power Automate  
+- Led an ETL migration, delivering a $20 000 cost saving  
+- Peer‑reviewed journal articles and multiple conference proceedings  
 
 ---
 
 ## Core Skills
 
-- Programming & Automation: Python, C++, VBA, SQL/SQLite  
+- Programming: Python, VBA, SQL/SQLite  
 - Data Visualisation: Power BI, Tableau, Matplotlib  
 - CRM & Integration: Salesforce (incl. Pardot), NationBuilder, Zapier, Power Automate  
-- Statistical & Economic Modelling: applied quantitative analysis and custom modelling  
+- Statistical & Economic Modelling: Eviews, R  
 - Documentation & Training: user manuals, how‑to videos, workshops  
 
 ---
