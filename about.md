@@ -27,13 +27,17 @@ I also take on select consulting projects through [Dianoetic](www.dianoetic.com.
 **Political Economy**
 
 PhD: Analysing the World Rate of Profit: A New Approach (2024)
+
 MA (Research): Transnational Australia (2019)
+
 Graduate Certificate (2017)
+
 *The University of Sydney*
 
 **Civil & Geotechnical Engineering**
 
 MSc and BSc
+
 *Sharif University of Technology*
 
 ---
@@ -41,12 +45,15 @@ MSc and BSc
 **Selected Publications & Research**
 
 *Journal Articles*
+
 "The Powers of Australian Retail Workers as a Section of the Global Working Class," Global Labour Journal (2020)
+
 "Horizontal Stress Estimation Using CPT: a Database Approach," Sharif Journal of Science and Research (2014)
 
 *Conference Proceedings*
 
 "The Social Structure of Accumulation: Theoretical-Historical Background and Contemporary Applications," ISEFE 2018
+
 Technical papers on cone penetration and pressuremeter testing
 
 I also write on political economy at [Think Hammerly](thinkhammerly.wordpress.com), exploring questions around capitalism, labour, and economic structures.
@@ -75,13 +82,19 @@ Created survey instruments and analysed results to drive program improvements
 
 
 **Technical Skills**
+
 Analysis & Visualisation: Python, Power BI (certified), Tableau, SQL, R, EViews
+
 CRM & Automation: Salesforce (certified administrator), NationBuilder, Zapier, Power Automate
+
 Data Management: ETL design, database architecture, system integrations
+
 Research Methods: Quantitative analysis, survey design, literature synthesis
 
 **Languages**
+
 Fluent: English, Persian
+
 Working knowledge: Arabic, Tongan
 
 ---
