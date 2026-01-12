@@ -41,7 +41,7 @@ Through [Dianoetic](https://www.dianoetic.com.au), I partner with organisations 
 ---
 
 ## Let’s Connect
-If you’re looking for economic insight, data strategy, or systems thinking that aligns with a mission for equitable futures, I’d be glad to talk.
+If you’re looking for economic insight, data analysis, or systems thinking that aligns with a mission for equitable futures, I’d be glad to talk.
 
 <br><br>
 <a href="/contact">Contact Me →</a>
