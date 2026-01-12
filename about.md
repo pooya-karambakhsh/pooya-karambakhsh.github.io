@@ -23,19 +23,23 @@ I also take on select consulting projects through [Dianoetic](www.dianoetic.com.
 ---
 
 ## Academic Background
+
 **Political Economy**
+
 PhD: Analysing the World Rate of Profit: A New Approach (2024)
 MA (Research): Transnational Australia (2019)
 Graduate Certificate (2017)
 *The University of Sydney*
 
 **Civil & Geotechnical Engineering**
+
 MSc and BSc
 *Sharif University of Technology*
 
 ---
 
 **Selected Publications & Research**
+
 *Journal Articles*
 "The Powers of Australian Retail Workers as a Section of the Global Working Class," Global Labour Journal (2020)
 "Horizontal Stress Estimation Using CPT: a Database Approach," Sharif Journal of Science and Research (2014)
@@ -49,7 +53,7 @@ I also write on political economy at [Think Hammerly](thinkhammerly.wordpress.co
 
 ---
 
-**Selected Projects & Capabilities**
+## Selected Projects & Capabilities  
 *Economic Research & Analysis*
 
 Modelled world profit rates using historical national accounts data spanning 70+ years
