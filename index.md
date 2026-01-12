@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# *Economics, Research, and Data Strategy for Social Impact*
+# *Economics, Research, and Data Analysis for Social Impact*
 
 --- 
 
@@ -12,8 +12,8 @@ title: Home
     <div class="hero-text">
       <h2>Pooya Karambakhsh</h2>
       <p>
-        I’m an economist, data strategist, and researcher working at the intersection of economic insight, technical systems, and social impact.
-        Over more than a decade, I’ve helped nonprofits and for‑purpose organisations turn complex data into actionable insight — designing solutions that are rigorous, human‑centred, and built to last.
+        I’m an economist, researcher, and data specialist working at the intersection of economic insight, technical systems, and social impact.
+        For about a decade, I’ve helped nonprofits and for‑purpose organisations, advocacy institutions, and public organisations with research, systems, and strategic insight, most recently as a macroeconomics and research mentor at the National Reserve Bank of Tonga.
       </p>
       <p><a href="/about" class="read-more">Read more about my background →</a></p>
     </div>
@@ -31,12 +31,12 @@ Research and publications on the world rate of profit, labour issues, and theori
 ---
 
 ## [Portfolio](/portfolio.md)
-A selection of projects spanning economic research, data systems architecture, and applied analytics — from modelling global profit trends to developing offline‑first CRMs, automating ETL pipelines, and delivering strategic reporting for mission‑driven organisations.
+A selection of projects spanning economic research, data systems architecture, geotechnical research, and applied analytics — from analysing global profitability trends to numerical simulaiton of geotechnical phenomena, developing offline‑first CRMs, and delivering strategic reporting for mission‑driven organisations.
 
 ---
 
 ## [Collaborate](/collaborate.md)
-Through [Dianoetic](https://www.dianoetic.com.au), I partner with organisations on research and data strategy projects. My work includes supporting not‑for‑profits with database management, improving reporting processes, and applying economic analysis to fiscal and policy challenges. These collaborations focus on building practical data solutions and producing clear, actionable insights that strengthen decision‑making and impact.
+Through [Dianoetic](https://www.dianoetic.com.au), I partner with organisations on research and data strategy projects. My work includes supporting not‑for‑profits with database management, research, data analysis, and improving reporting processes. These collaborations focus on building practical data solutions and producing clear, actionable insights that strengthen decision‑making and impact.
 
 ---
 

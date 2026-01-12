@@ -8,69 +8,77 @@ permalink: /about/
 
 <img src="{{ '/assets/img/headshot_friendly.png' | relative_url }}" alt="Pooya Karambakhsh" class="main-photo">
 
-I’m Pooya Karambakhsh — an economist, data strategist, and researcher with nearly two decades of interdisciplinary experience spanning political economy, geotechnical engineering, and applied data systems. I design and implement **human‑centred, technically rigorous data solutions** that help nonprofits, advocacy groups, and public institutions turn complex information into actionable insight.
-
-My work bridges **rigorous economic analysis**, **modular system design**, and **field‑ready implementation**. I combine hands‑on technical expertise with a collaborative, capacity‑building approach, enabling mission‑driven teams to work effectively in resource‑constrained environments.
+I'm an economist and researcher focused on political economy, labour dynamics, and applied data analysis. My work spans economic research, data systems design, and capacity building—combining rigorous analysis with practical implementation for mission-driven organisations.
 
 [📄 Download CV (PDF)](/assets/docs/Pooya-Karambakhsh-CV.pdf) | [🔗 Connect on LinkedIn](https://www.linkedin.com/in/pooya-karambakhsh)
 
 ---
 
-## My Journey
+## Current Work
 
-I began as a civil and geotechnical engineer, working across design offices, construction sites, and laboratories — from managing in‑situ testing teams and producing technical and financial reports, to modelling soil behaviour and validating numerical simulations in C++ and Python.  
-
-Over time I gravitated towards data roles in the not‑for‑profit sector, designing CRMs in Salesforce, automating workflows with Microsoft Power Automate, and crafting Power BI dashboards to inform senior leadership.  
-
-Alongside my in‑house roles, I also take on select consulting projects through **Dianoetic**, applying the same rigour and practical focus to external collaborations.
-
-My academic path has been multidisciplinary:  
-&nbsp;&nbsp;• **PhD**, **MA (Research)** and **Graduate Certificate** in Political Economy — *The University of Sydney*  
-&nbsp;&nbsp;• **MSc** and **BSc** in Civil & Geotechnical Engineering — *Sharif University of Technology*  
-
-I’ve published on topics ranging from global profit rates to the powers of Australian retail workers, as well as technical studies on cone penetration and pressuremeter tests.
+I'm currently working as a Macroeconomics and Research Mentor at the National Reserve Bank of Tonga, supporting capacity building in research and analysis. This volunteer role builds on over a decade of experience combining economic research with practical data work in the nonprofit and public sectors.
+Previously, I've held data and research positions at organisations including The Australia Institute, Dress for Success, Save the Children Australia, and Bobby Goldsmith Foundation—designing CRM systems, automating workflows, and producing strategic analysis to support programs serving disadvantaged communities.
+I also take on select consulting projects through [Dianoetic](www.dianoetic.com.au), focusing on economic research, database strategy, and systems integration for advocacy groups and nonprofits.
 
 ---
 
-## What I Work On
+## Academic Background
+**Political Economy**
+PhD: Analysing the World Rate of Profit: A New Approach (2024)
+MA (Research): Transnational Australia (2019)
+Graduate Certificate (2017)
+*The University of Sydney*
 
-**Building Practical Data Tools**  
-I design and implement offline‑first CRMs, automation pipelines, and open‑source utilities — such as *Bibliopy*, an offline‑capable bibliographic management tool for academics and researchers — that help mission‑driven teams work effectively in resource‑constrained environments.
-
-**Advancing Economic and Policy Research**  
-My research spans political economy, labour issues, and profit dynamics. I publish in peer‑reviewed journals, present at conferences, and develop analytical frameworks that bridge theory with real‑world application. I also write for *Think Hammerly*, where I explore political‑economic questions in a semi‑academic but accessible style — combining data‑driven analysis with clear, engaging narrative.
-
-**Collaborating Through Dianoetic**  
-Through Dianoetic, I take on select consulting and integration projects in parallel with my embedded roles in organisations — partnering with nonprofits, advocacy groups and select collaborators to deliver data strategy, systems integration, and tailored modelling solutions.
-
----
-
-## Credentials & Highlights
-
-- 12+ years in academic research and 7+ years in data roles within mission‑driven organisations  
-- Designed a Salesforce CRM, saving over $50 000 in development costs and $3 000 p.a. in subscriptions  
-- Automated more than 500 hours of manual work using Salesforce flows and Microsoft Power Automate  
-- Led an ETL migration, delivering a $20 000 cost saving  
-- Peer‑reviewed journal articles and multiple conference proceedings  
+**Civil & Geotechnical Engineering**
+MSc and BSc
+*Sharif University of Technology*
 
 ---
 
-## Core Skills
+**Selected Publications & Research**
+*Journal Articles*
+"The Powers of Australian Retail Workers as a Section of the Global Working Class," Global Labour Journal (2020)
+"Horizontal Stress Estimation Using CPT: a Database Approach," Sharif Journal of Science and Research (2014)
 
-- Programming: Python, VBA, SQL/SQLite  
-- Data Visualisation: Power BI, Tableau, Matplotlib  
-- CRM & Integration: Salesforce (incl. Pardot), NationBuilder, Zapier, Power Automate  
-- Statistical & Economic Modelling: Eviews, R  
-- Documentation & Training: user manuals, how‑to videos, workshops  
+*Conference Proceedings*
+
+"The Social Structure of Accumulation: Theoretical-Historical Background and Contemporary Applications," ISEFE 2018
+Technical papers on cone penetration and pressuremeter testing
+
+I also write on political economy at [Think Hammerly](thinkhammerly.wordpress.com), exploring questions around capitalism, labour, and economic structures.
 
 ---
 
-## How I Work
+**Selected Projects & Capabilities**
+*Economic Research & Analysis*
 
-- Iterative prototyping: rapid build‑test‑refine cycles  
-- Modular architecture: independent components for long‑term maintainability  
-- Ethical data practices: privacy‑first, transparent governance  
-- Empathetic consulting: solutions tailored to real‑world workflows  
+Modelled world profit rates using historical national accounts data spanning 70+ years
+Analysed Australian retail sector labour dynamics and global working-class power structures
+Supported public policy research on housing and inequality
+
+*Data Systems & Integration*
+
+Designed and implemented complete Salesforce CRM, saving organisation $50k+ in development costs
+Led ETL migration from legacy system to Salesforce, delivering $20k cost saving
+Automated 500+ annual hours through Salesforce flows and Power Automate
+Built integrations between Salesforce, Mailchimp, Funraisin, Calendly, and other platforms
+
+*Strategic Reporting & Visualisation*
+
+Developed Power BI dashboards and reports for executive teams across multiple organisations
+Designed compliance reporting systems meeting government (DSS, FACS/DCJ) requirements
+Created survey instruments and analysed results to drive program improvements
+
+
+**Technical Skills**
+Analysis & Visualisation: Python, Power BI (certified), Tableau, SQL, R, EViews
+CRM & Automation: Salesforce (certified administrator), NationBuilder, Zapier, Power Automate
+Data Management: ETL design, database architecture, system integrations
+Research Methods: Quantitative analysis, survey design, literature synthesis
+
+**Languages**
+Fluent: English, Persian
+Working knowledge: Arabic, Tongan
 
 ---
 
