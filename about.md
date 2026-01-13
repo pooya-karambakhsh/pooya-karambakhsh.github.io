@@ -34,6 +34,7 @@ Graduate Certificate (2017)
 
 *The University of Sydney*
 
+
 **Civil & Geotechnical Engineering**
 
 MSc and BSc
@@ -50,7 +51,6 @@ MSc and BSc
 
 "Horizontal Stress Estimation Using CPT: a Database Approach," Sharif Journal of Science and Research (2014)
 
-<br><br>
 <u>Conference Proceedings</u>
 
 "The Social Structure of Accumulation: Theoretical-Historical Background and Contemporary Applications," ISEFE 2018
