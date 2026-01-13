@@ -43,14 +43,15 @@ MSc and BSc
 ---
 
 **Selected Publications & Research**
-<u>*Journal Articles*</u>
+
+<u>Journal Articles</u>
 
 "The Powers of Australian Retail Workers as a Section of the Global Working Class," Global Labour Journal (2020)
 
 "Horizontal Stress Estimation Using CPT: a Database Approach," Sharif Journal of Science and Research (2014)
 
 <br><br>
-<u>*Conference Proceedings*</u>
+<u>Conference Proceedings</u>
 
 "The Social Structure of Accumulation: Theoretical-Historical Background and Contemporary Applications," ISEFE 2018
 
@@ -82,7 +83,7 @@ Developed Power BI dashboards and reports for executive teams across multiple or
 Designed compliance reporting systems meeting government (DSS, FACS/DCJ) requirements
 Created survey instruments and analysed results to drive program improvements
 
-
+<br><br>
 **Technical Skills**
 
 Analysis & Visualisation: Python, Power BI (certified), Tableau, SQL, R, EViews
