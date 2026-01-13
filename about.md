@@ -43,14 +43,14 @@ MSc and BSc
 ---
 
 **Selected Publications & Research**
-
-*Journal Articles*
+<u>*Journal Articles*</u>
 
 "The Powers of Australian Retail Workers as a Section of the Global Working Class," Global Labour Journal (2020)
 
 "Horizontal Stress Estimation Using CPT: a Database Approach," Sharif Journal of Science and Research (2014)
 
-*Conference Proceedings*
+<br><br>
+<u>*Conference Proceedings*</u>
 
 "The Social Structure of Accumulation: Theoretical-Historical Background and Contemporary Applications," ISEFE 2018
 
