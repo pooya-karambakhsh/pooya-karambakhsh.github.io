@@ -80,7 +80,6 @@ Designed compliance reporting systems meeting government (DSS, FACS/DCJ) require
 Created survey instruments and analysed results to drive program improvements
 
 <br><br>
-
 **Technical Skills**
 
 Analysis & Visualisation: Python, Power BI (certified), Tableau, SQL, R, EViews
@@ -91,6 +90,7 @@ Data Management: ETL design, database architecture, system integrations
 
 Research Methods: Quantitative analysis, survey design, literature synthesis
 
+<br><br>
 **Languages**
 
 Fluent: English, Persian
