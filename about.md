@@ -61,25 +61,28 @@ I also write on political economy at [Think Hammerly](thinkhammerly.wordpress.co
 ---
 
 ## Selected Projects & Capabilities  
-<u>*Economic Research & Analysis*</u>
+<u>Economic Research & Analysis</u>
+
 Modelled world profit rates using historical national accounts data spanning 70+ years
 Analysed Australian retail sector labour dynamics and global working-class power structures
 Supported public policy research on housing and inequality
 
-<u>*Data Systems & Integration*</u>
+
+<u>Data Systems & Integration</u>
 
 Designed and implemented complete Salesforce CRM, saving organisation $50k+ in development costs
 Led ETL migration from legacy system to Salesforce, delivering $20k cost saving
 Automated 500+ annual hours through Salesforce flows and Power Automate
 Built integrations between Salesforce, Mailchimp, Funraisin, Calendly, and other platforms
 
-<u>*Strategic Reporting & Visualisation*</u>
+
+<u>Strategic Reporting & Visualisation</u>
 
 Developed Power BI dashboards and reports for executive teams across multiple organisations
 Designed compliance reporting systems meeting government (DSS, FACS/DCJ) requirements
 Created survey instruments and analysed results to drive program improvements
 
-<br><br>
+
 **Technical Skills**
 
 Analysis & Visualisation: Python, Power BI (certified), Tableau, SQL, R, EViews
