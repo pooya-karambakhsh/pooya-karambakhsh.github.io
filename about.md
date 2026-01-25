@@ -18,7 +18,7 @@ I'm an economist and researcher focused on political economy, labour dynamics, a
 
 I'm currently working as a Macroeconomics and Research Mentor at the National Reserve Bank of Tonga, supporting capacity building in research and analysis. This volunteer role builds on over a decade of experience combining economic research with practical data work in the nonprofit and public sectors.
 Previously, I've held data and research positions at organisations including The Australia Institute, Dress for Success, Save the Children Australia, and Bobby Goldsmith Foundation—designing CRM systems, automating workflows, and producing strategic analysis to support programs serving disadvantaged communities.
-I also take on select consulting projects through [Dianoetic](www.dianoetic.com.au), focusing on economic research, database strategy, and systems integration for advocacy groups and nonprofits.
+I also take on select consulting projects through [Dianoetic](https://www.dianoetic.com.au), focusing on economic research, database strategy, and systems integration for advocacy groups and nonprofits.
 
 ---
 
@@ -57,7 +57,7 @@ MSc and BSc
 
 Technical papers on cone penetration and pressuremeter testing
 
-I also write on political economy at [Think Hammerly](thinkhammerly.wordpress.com), exploring questions around capitalism, labour, and economic structures.
+I also write on political economy at [Think Hammerly](https://thinkhammerly.wordpress.com), exploring questions around capitalism, labour, and economic structures.
 
 ---
 
