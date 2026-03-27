@@ -25,17 +25,17 @@ title: Home
 
 # Explore My Work
 
-## [Economic Analysis](/economic.md)
+## [Economic Analysis](/economic)
 Research and publications on the world rate of profit, labour issues, and theories of capital accumulation — including peer‑reviewed work such as *The Powers of Australian Retail Workers* and my doctoral thesis *Analysing the World Rate of Profit: A New Approach*. My work combines historical data analysis with political economy frameworks to illuminate long‑term economic dynamics.
 
 ---
 
-## [Portfolio](/portfolio.md)
+## [Portfolio](/portfolio)
 A selection of projects spanning economic research, data systems architecture, geotechnical research, and applied analytics — from analysing global profitability trends to numerical simulaiton of geotechnical phenomena, developing offline‑first CRMs, and delivering strategic reporting for mission‑driven organisations.
 
 ---
 
-## [Collaborate](/collaborate.md)
+## [Collaborate](/collaborate)
 Through [Dianoetic](https://www.dianoetic.com.au), I partner with organisations on research and data strategy projects. My work includes supporting not‑for‑profits with database management, research, data analysis, and improving reporting processes. These collaborations focus on building practical data solutions and producing clear, actionable insights that strengthen decision‑making and impact.
 
 ---

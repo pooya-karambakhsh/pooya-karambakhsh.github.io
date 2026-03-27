@@ -15,12 +15,12 @@ This page offers a concise introduction to my academic and analytical work — f
 ## Publications & Research Outputs
 
 My economic research has been published in peer‑reviewed journals, conference proceedings, and academic theses. Selected works include:
+- [**Measuring the World Rate of Profit: A Marxian Approach:**](https://doi.org/10.1177/04866134261420879) *Review of Radical Political Economics* (2026). Applies three measures of profitability and demonstrates the falling tendency of the rate of profit due to technological change. 
+- [**Analysing the World Rate of Profit: A New Approach:**](https://doi.org/10.1177/04866134261420879) PhD thesis, The University of Sydney (2024). Uses different definitions of the rate of profit, demonstrates a downward trend in the world's profitability.
+- [**The Powers of Australian Retail Workers as a Section of the Global Working Class:**](https://doi.org/10.15173/glj.v11i2.4076) *Global Labour Journal*, Vol. 11, Issue 2 (2020). Examines the powers of retail workers in Australia within global production and distribution systems.
+- [**Transnational Australia:**](http://hdl.handle.net/2123/20744) MA (Research) thesis, The University of Sydney (2019). Using different frameworks, analyses the powers of Australian workers within the global economy.
+- **The Social Structure of Accumulation: Theoretical‑Historical Background and Contemporary Applications:** Conference paper, International Symposium on Economics, Finance and Econometrics (ISEFE 2018).
 
-- **Analysing the World Rate of Profit: A New Approach** — PhD thesis, The University of Sydney (2024). Develops a new methodology for measuring and interpreting the world rate of profit, combining historical data analysis with theoretical innovation.
-- **The Powers of Australian Retail Workers as a Section of the Global Working Class** — *Global Labour Journal*, Vol. 11, Issue 2 (2020). Examines the structural and associational power of retail workers in Australia within global production and distribution systems.
-- **Transnational Australia** — MA (Research) thesis, The University of Sydney (2019). Investigates the intersections of global capital, labour issues, and migration in the Australian context.
-- **The Social Structure of Accumulation: Theoretical‑Historical Background and Contemporary Applications** — Conference paper, International Symposium on Economics, Finance and Econometrics (ISEFE 2018).
-- Additional conference proceedings on political economy and technical topics, including CPT calibration chamber studies and pressuremeter test modelling.
 
 ---
 
