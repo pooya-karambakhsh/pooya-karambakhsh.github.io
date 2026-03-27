@@ -26,7 +26,7 @@ title: Home
 # Explore My Work
 
 ## [Economic Analysis](/economic)
-Research and publications on the world rate of profit, labour issues, and theories of capital accumulation — including peer‑reviewed work such as *The Powers of Australian Retail Workers* and my doctoral thesis *Analysing the World Rate of Profit: A New Approach*. My work combines historical data analysis with political economy frameworks to illuminate long‑term economic dynamics.
+Research and publications on the world rate of profit, labour issues, and theories of capital accumulation — including peer‑reviewed work such as [*Measuring the World Rate of Profit: A Marxian Approach:*](https://doi.org/10.1177/04866134261420879) and [*The Powers of Australian Retail Workers*](https://doi.org/10.15173/glj.v11i2.4076) and my thesis [*Analysing the World Rate of Profit: A New Approach*](https://doi.org/10.1177/04866134261420879). My work combines historical data analysis with political economy frameworks to illuminate long‑term economic dynamics.
 
 ---
 
