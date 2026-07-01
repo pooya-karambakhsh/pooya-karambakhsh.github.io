@@ -16,7 +16,7 @@ I'm an economist and researcher focused on political economy, labour dynamics, a
 
 ## Current Work
 
-I'm currently working as a Macroeconomics and Research Mentor at the National Reserve Bank of Tonga, supporting capacity building in research and analysis. This volunteer role builds on over a decade of experience combining economic research with practical data work in the nonprofit and public sectors.
+Most recently I worked as a Macroeconomics and Research Mentor at the National Reserve Bank of Tonga, supporting capacity building in research and analysis. This volunteer role built on over a decade of experience combining economic research with practical data work in the nonprofit and public sectors.
 Previously, I've held data and research positions at organisations including The Australia Institute, Dress for Success, Save the Children Australia, and Bobby Goldsmith Foundation—designing CRM systems, automating workflows, and producing strategic analysis to support programs serving disadvantaged communities.
 I also take on select consulting projects through [Dianoetic](https://www.dianoetic.com.au), focusing on economic research, database strategy, and systems integration for advocacy groups and nonprofits.
 
@@ -34,10 +34,11 @@ Graduate Certificate (2017)
 
 *The University of Sydney*
 
+<br><br>
 
 **Civil & Geotechnical Engineering**
 
-MSc and BSc
+MSc (2008) and BSc (2006)
 
 *Sharif University of Technology*
 
@@ -47,11 +48,19 @@ MSc and BSc
 
 <u>Journal Articles</u>
 
-"The Powers of Australian Retail Workers as a Section of the Global Working Class," Global Labour Journal (2020)
+["Measuring the World Rate of Profit: A Marxian Approach"](https://doi.org/10.1177/04866134261420879), Review of
+Radical Political Economics (2026) 
+
+["The Powers of Australian Retail Workers as a Section of the Global Working Class"](https://doi.org/10.15173/glj.v11i2.4076), Global Labour Journal (2020)
 
 "Horizontal Stress Estimation Using CPT: a Database Approach," Sharif Journal of Science and Research (2014)
 
-<u>Conference Proceedings</u>
+<br><br>
+
+<u>Working Papers and Conference Proceedings</u>
+
+["Productive Labour and Profitability in Australia: A Marxian Assessment"](https://mpra.ub.uni-muenchen.de/128475/), 1963–2023. MPRA Paper No. 128475. Munich Personal RePEc Archive (2026)
+
 
 "The Social Structure of Accumulation: Theoretical-Historical Background and Contemporary Applications," ISEFE 2018
 
