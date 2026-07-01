@@ -17,7 +17,7 @@ I'm an economist and researcher focused on political economy, labour dynamics, a
 ## Current Work
 
 Most recently I worked as a Macroeconomics and Research Mentor at the National Reserve Bank of Tonga, supporting capacity building in research and analysis. This volunteer role built on over a decade of experience combining economic research with practical data work in the nonprofit and public sectors.
-Previously, I've held data and research positions at organisations including The Australia Institute, Dress for Success, Save the Children Australia, and Bobby Goldsmith Foundation—designing CRM systems, automating workflows, and producing strategic analysis to support programs serving disadvantaged communities.
+Previously, I've held data and research positions at organisations including The Australia Institute, Dress for Success, Save the Children Australia, and Bobby Goldsmith Foundation, designing CRM systems, automating workflows, and producing strategic analysis to support programs serving disadvantaged communities.
 I also take on select consulting projects through [Dianoetic](https://www.dianoetic.com.au), focusing on economic research, database strategy, and systems integration for advocacy groups and nonprofits.
 
 ---
@@ -95,13 +95,13 @@ Created survey instruments and analysed results to drive program improvements
 <br><br>
 **Technical Skills**
 
-Analysis & Visualisation: Python, Power BI (certified), Tableau, SQL, R, EViews
+**Analysis & Visualisation**: Python, Power BI (certified), Tableau, SQL, R, EViews
 
-CRM & Automation: Salesforce (certified administrator), NationBuilder, Zapier, Power Automate
+**CRM & Automation**: Salesforce (certified administrator), NationBuilder, Zapier, Power Automate
 
-Data Management: ETL design, database architecture, system integrations
+**Data Management**: ETL design, database architecture, system integrations
 
-Research Methods: Quantitative analysis, survey design, literature synthesis
+**Research Methods**: Quantitative analysis, survey design, literature synthesis
 
 <br><br>
 **Languages**
