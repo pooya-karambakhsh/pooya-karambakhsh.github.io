@@ -6,27 +6,18 @@ permalink: /portfolio/
 
 # **Portfolio**
 
-My work bridges economic research, data systems architecture, and engineering — connecting theory with practice across disciplines.
-From analysing global profitability trends to building offline‑first CRMs and modelling the behaviour of granular soils,  these projects reflect a career built on curiosity, rigour, and impact.
+My work bridges economic research, data systems, and engineering, connecting theory with practice across disciplines. From analysing global profitability trends to central bank macroeconomic forecasting and modelling the behaviour of granular soils, these projects reflect a career built on curiosity, rigour, and impact.
+
 This portfolio presents selected projects that illustrate the breadth of my expertise and the impact of my work.  
 For a complete professional history, you can <a href="/assets/docs/Pooya-Karambakhsh-CV.pdf">download my CV</a> or <a href="https://www.linkedin.com/in/pooya-karambakhsh">visit my LinkedIn profile</a>.
 
----
 
-## **Current Focus**
-
-### **Macroeconomic and Research Mentoring**
-Working with the National Reserve Bank of Tonga to strengthen capacity in research, data analysis, and writing. The focus is on building methodological rigour, improving clarity in outputs, and embedding reproducible practices that support the Bank’s institutional development.
-
-### **BiblioPy**
-An open‑source Python tool for bibliometric analysis, including academic productivity and collaboration, without reliance on proprietary platforms. Designed for researchers, writers, and organisations who need a lightweight, offline‑capable way to organise references. Built with simplicity, transparency, and long‑term maintainability in mind.
-
-### **Offline CRM**
-A modular, offline‑first customer relationship management system tailored for nonprofits and advocacy groups working in low‑connectivity environments. Combines robust data capture with seamless syncing when online, ensuring teams can operate effectively anywhere without sacrificing data integrity.
-
----
 
 ## **Economic Research & Analysis**
+
+### **Macroeconomic and Research Mentoring**
+National Reserve Bank of Tonga, via DFAT-funded Australian Volunteers Program (Sep 2025 – Jun 2026)
+Mentored central bank research staff, led a methodological review of the headline inflation reference rate, assessment of various core inflation measures to Tonga's economy, and contributed to macroeconomic forecasting using the Quarterly Projection Model and Vector Autoregression analysis. Redesigned two national surveys, both approved by the Board of Governors. Worked alongside the IMF Technical Assistance team and ILO.
 
 ### **Analysing the World Rate of Profit**  
 <img src="{{ '/assets/img/WRP.gif' | relative_url }}" alt="Particle Flow in Soil by Pooya Karambakhsh" class="float-right">
@@ -69,11 +60,11 @@ Managed an in‑situ laboratory team to oversee geotechnical design and construc
 ## **Data Systems & Consulting**
 
 ### **Database Development**  
-*Database Specialist (Jan 2025 – Aug 2025)*  
+*Database Specialist (Jan 2025 – Jul 2025)*  
 Designed and built a complete Salesforce CRM tailored to senior management needs. Built flows in Salesforce to automate tasks and improve processes. Implemented inter-system integration using Zapier and Python. Reduced development costs by over 75% and cut annual subscription costs by $3k.
 
 ### **Systems Management**  
-*Data and Systems Manager (Jan 2024 – Aug 2025)*  
+*Data and Systems Manager (Jun 2023 – Jun 2025)*  
 Led CRM (Salesforce) enhancements, including Marketing Cloud Account Engagement (Pardot), delivering a 20% project cost saving and reducing subscription costs by up to 40%.  
 Automated manual processes, saving over 500 annual hours, and implemented integrations with Mailchimp, Funraisin, Calendly, Zapier, and Humanitix.  
 Provided training, documentation, and strategic reporting to improve program assessment and fundraising outcomes.
