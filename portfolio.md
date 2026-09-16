@@ -58,6 +58,12 @@ Managed an in‑situ laboratory team to oversee geotechnical design and construc
 ---
 
 ## **Data Systems & Consulting**
+### **Offline CRM**
+A local-first CRM — Python, Tkinter, SQLite — built to test what CRM implementation looks like when the constraint is "no cloud, no vendor, data never leaves the device." Adaptable to an organisation's specific schema or workflow. 
+
+[View Code on GitHub →](https://github.com/pooya-karambakhsh/offline-crm-demo)
+
+
 
 ### **Database Development**  
 *Database Specialist (Jan 2025 – Jul 2025)*  
