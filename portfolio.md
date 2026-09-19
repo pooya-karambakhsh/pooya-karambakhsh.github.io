@@ -20,7 +20,7 @@ National Reserve Bank of Tonga, via DFAT-funded Australian Volunteers Program (S
 Mentored central bank research staff, led a methodological review of the headline inflation reference rate, assessment of various core inflation measures to Tonga's economy, and contributed to macroeconomic forecasting using the Quarterly Projection Model and Vector Autoregression analysis. Redesigned two national surveys, both approved by the Board of Governors. Worked alongside the IMF Technical Assistance team and ILO.
 
 ### **Analysing the World Rate of Profit**  
-<img src="{{ '/assets/img/WRP.gif' | relative_url }}" alt="Particle Flow in Soil by Pooya Karambakhsh" class="float-right">
+<img src="{{ '/assets/img/WRP.gif' | relative_url }}" alt="World Rate of Profit by Pooya Karambakhsh" class="float-right">
 *PhD Thesis, The University of Sydney (2024)*  
 Developed a new approach to measuring and interpreting the world rate of profit, contributing to debates in political economy on global capital accumulation. The research combined historical data analysis with theoretical innovation, offering a framework for understanding long‑term profitability trends.
 
