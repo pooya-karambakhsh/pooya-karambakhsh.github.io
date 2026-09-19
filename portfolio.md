@@ -45,7 +45,7 @@ Produced visualisations and technical reports for academic and industry audience
 <br><br>
 
 ### **Horizontal Stress of Sandy Soils Using CPT**  
-<img src="{{ '/assets/img/CPT.png' | relative_url }}" alt="Cone Penetraiton Test in Sandy Soils by Pooya Karambakhsh" class="float-right">
+<img src="{{ '/assets/img/CPT.png' | relative_url }}" alt="Cone Penetration Test in Sandy Soils by Pooya Karambakhsh" class="float-right">
 Sharif University of Technology, Tehran, Iran (MSc Research)
 Investigated the determination of in‑situ horizontal stress in sandy soils through calibration chamber experiments with Cone Penetration Tests (CPT). Developed and validated empirical relationships between cone tip resistance and the coefficient of earth pressure at rest (K₀), offering a more reliable method for estimating lateral stresses in cohesionless soils without the need for undisturbed sampling.
 <br><br>

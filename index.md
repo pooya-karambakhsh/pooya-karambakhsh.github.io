@@ -31,7 +31,7 @@ Research and publications on the world rate of profit, labour issues, and theori
 ---
 
 ## [Portfolio](/portfolio)
-A selection of projects spanning economic research, data systems architecture, geotechnical research, and applied analytics — from analysing global profitability trends to numerical simulaiton of geotechnical phenomena, developing offline‑first CRMs, and delivering strategic reporting for mission‑driven organisations.
+A selection of projects spanning economic research, data systems architecture, geotechnical research, and applied analytics — from analysing global profitability trends to numerical simulation of geotechnical phenomena, developing offline‑first CRMs, and delivering strategic reporting for mission‑driven organisations.
 
 ---
 
