@@ -1,15 +1,14 @@
 ---
 layout: default
 title: Portfolio
-permalink: /portfolio/
+description: "Selected projects in economic research, data systems and geotechnical engineering."
 ---
 
 # **Portfolio**
 
-My work bridges economic research, data systems, and engineering, connecting theory with practice across disciplines. From analysing global profitability trends to central bank macroeconomic forecasting and modelling the behaviour of granular soils, these projects reflect a career built on curiosity, rigour, and impact.
+My work bridges economic research, data systems and engineering. Projects range from analysing global profitability trends to central bank macroeconomic forecasting and modelling the behaviour of granular soils.
 
-This portfolio presents selected projects that illustrate the breadth of my expertise and the impact of my work.  
-For a complete professional history, you can <a href="/assets/docs/Pooya-Karambakhsh-CV.pdf">download my CV</a> or <a href="https://www.linkedin.com/in/pooya-karambakhsh">visit my LinkedIn profile</a>.
+For a complete history, download my [CV](/assets/docs/Pooya-Karambakhsh-CV.pdf) or visit my [LinkedIn profile](https://www.linkedin.com/in/pooya-karambakhsh).
 
 
 
@@ -59,7 +58,7 @@ Supervised an in‑situ laboratory team to oversee geotechnical design and const
 
 ## **Data Systems & Consulting**
 ### **Offline CRM**
-A local-first CRM — Python, Tkinter, SQLite — built to test what CRM implementation looks like when the constraint is "no cloud, no vendor, data never leaves the device." Adaptable to an organisation's specific schema or workflow. 
+A local-first CRM (Python, Tkinter, SQLite) built to test what CRM implementation looks like when the constraint is "no cloud, no vendor, data never leaves the device." Adaptable to an organisation's specific schema or workflow. 
 
 [View Code on GitHub →](https://github.com/pooya-karambakhsh/offline-crm-demo)
 
