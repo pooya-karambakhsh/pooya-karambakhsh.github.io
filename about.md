@@ -36,7 +36,7 @@ Graduate Certificate (2017)
 
 <br><br>
 
-**Civil & Geotechnical Engineering**
+**Geotechnical Engineering**
 
 MSc (2008) and BSc (2006)
 
@@ -108,7 +108,9 @@ Created survey instruments and analysed results to drive program improvements
 
 Fluent: English, Persian
 
-Working knowledge: Arabic, Tongan
+Working: Arabic
+
+Basic: Tongan
 
 ---
 
