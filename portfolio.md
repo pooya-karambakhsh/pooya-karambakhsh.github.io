@@ -22,7 +22,7 @@ Mentored central bank research staff, led a methodological review of the headlin
 ### **Analysing the World Rate of Profit**  
 <img src="{{ '/assets/img/WRP.gif' | relative_url }}" alt="World Rate of Profit by Pooya Karambakhsh" class="float-right">
 *PhD Thesis, The University of Sydney (2024)*  
-Developed a new approach to measuring and interpreting the world rate of profit, contributing to debates in political economy on global capital accumulation. The research combined historical data analysis with theoretical innovation, offering a framework for understanding long‑term profitability trends.
+Developed an approach to measuring and interpreting the world rate of profit, contributing to debates in political economy on global capital accumulation. The research combined historical data analysis with theoretical innovation, offering a framework for understanding long‑term profitability trends.
 
 ### **The Powers of Australian Retail Workers**  
 *Published in Global Labour Journal, Vol. 11, Issue 2 (2020)*  
@@ -53,7 +53,7 @@ Investigated the determination of in‑situ horizontal stress in sandy soils thr
 ### **Geotechnical Consulting Engineer – Nargesi Earthfill Dam**
 <img src="{{ '/assets/img/Nargesi.jpg' | relative_url }}" alt="Pooya Karambakhsh at Nargesi Dam Construction Project" class="float-right">  
 *Tamavan Consulting Engineers, Tehran, Iran (2011–2012)*  
-Managed an in‑situ laboratory team to oversee geotechnical design and construction for dam, road, and tunnel works. Delivered technical and financial reports, and developed 3D visualisations to support project planning and stakeholder communication.
+Supervised an in‑situ laboratory team to oversee geotechnical design and construction for dam, road, and tunnel works. Delivered technical and financial reports, and developed 3D visualisations to support project planning and stakeholder communication.
 
 ---
 
