@@ -1,22 +1,15 @@
 ---
 layout: default
 title: Contact
+description: Contact details for Pooya Karambakhsh: LinkedIn, email, Think Hammerly and Dianoetic.
 permalink: /contact/
 ---
 
-# Let’s Connect
+# Contact
 
-Whether you’re exploring a data challenge, curious about my research, or simply want to start a conversation, I’d be glad to hear from you.  
-Here are the best ways to get in touch or explore my work:
+I'm glad to hear from anyone interested in my research or data work.
 
-- **Email me directly** — [pooya@dianoetic.com.au](mailto:pooya@dianoetic.com.au)  
-  For project enquiries, collaborations, or speaking opportunities.
-
-- **Visit Dianoetic** — [www.dianoetic.com.au](https://www.dianoetic.com.au)  
-  My consulting practice, focused on data strategy, systems integration, and sustainable solutions for mission‑driven organisations.
-
-- **Read Think Hammerly** — [thinkhammerly.wordpress.com](https://thinkhammerly.wordpress.com)  
-  My space for essays, reviews, and analysis in political economy — written to be both rigorous and accessible.
-
-- **Connect on LinkedIn** — [linkedin.com/in/pooya-karambakhsh](https://linkedin.com/in/pooya-karambakhsh)  
-  For my full professional history, publications, and current projects.
+- **LinkedIn:** [linkedin.com/in/pooya-karambakhsh](https://www.linkedin.com/in/pooya-karambakhsh), for my professional history and publications.
+- **Email:** [My Email](mailto:pooya@dianoetic.com.au)
+- **Writing:** [Think Hammerly](https://thinkhammerly.wordpress.com), my political economy blog.
+- **Consulting:** [Dianoetic](/collaborate/) is my part-time consultancy for research and data work. Availability is limited.
