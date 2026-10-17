@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Political economist and data specialist 
+title: Political economist and data specialist
 description: Political economist and data specialist in Sydney. Research on profitability and labour, and nonprofit data systems work since 2018.
 ---
 
-# *Economics, Research, and Data Analysis for Social Impact*
+# *Political economist and data specialist*
 
 --- 
 
@@ -13,8 +13,7 @@ description: Political economist and data specialist in Sydney. Research on prof
     <div class="hero-text">
       <h2>Pooya Karambakhsh</h2>
       <p>
-        I’m an economist, researcher, and data specialist working at the intersection of economic insight, technical systems, and social impact.
-        For about a decade, I’ve helped nonprofits and for‑purpose organisations, advocacy institutions, and public organisations with research, systems, and strategic insight, most recently as a macroeconomics and research mentor at the National Reserve Bank of Tonga.
+        I'm a political economist and data specialist. My research covers the world rate of profit and labour. Since 2018 I've worked in data roles for nonprofits, advocacy institutions and public bodies. 
       </p>
       <p><a href="/about" class="read-more">Read more about my background →</a></p>
     </div>
