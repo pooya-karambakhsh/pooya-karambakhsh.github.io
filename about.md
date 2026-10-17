@@ -8,7 +8,7 @@ permalink: /about/
 
 <img src="{{ '/assets/img/headshot_friendly.png' | relative_url }}" alt="Pooya Karambakhsh" class="main-photo">
 
-I'm an economist and researcher focused on political economy, labour dynamics, and applied data analysis. My work spans economic research, data systems design, and capacity building—combining rigorous analysis with practical implementation for mission-driven organisations.
+I'm an political economist and data specialist focused on political economy, labour dynamics, and applied data analysis. My work spans economic research, data systems design, and capacity building—combining rigorous analysis with practical implementation for mission-driven organisations.
 
 [📄 Download CV (PDF)](/assets/docs/Pooya-Karambakhsh-CV.pdf) | [🔗 Connect on LinkedIn](https://www.linkedin.com/in/pooya-karambakhsh)
 
