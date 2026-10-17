@@ -26,22 +26,17 @@ description: Political economist and data specialist in Sydney. Research on prof
 # Explore My Work
 
 ## [Economic Analysis](/economic)
-Research and publications on the world rate of profit, labour issues, and theories of capital accumulation — including peer‑reviewed work such as [*Measuring the World Rate of Profit: A Marxian Approach:*](https://doi.org/10.1177/04866134261420879) and [*The Powers of Australian Retail Workers*](https://doi.org/10.15173/glj.v11i2.4076) and my thesis [*Analysing the World Rate of Profit: A New Approach*](https://hdl.handle.net/2123/33517). My work combines historical data analysis with political economy frameworks to illuminate long‑term economic dynamics.
+Research and publications on the world rate of profit, labour issues, and theories of capital accumulation, including peer‑reviewed work such as [*Measuring the World Rate of Profit: A Marxian Approach:*](https://doi.org/10.1177/04866134261420879) and [*The Powers of Australian Retail Workers*](https://doi.org/10.15173/glj.v11i2.4076) and my thesis [*Analysing the World Rate of Profit: A New Approach*](https://hdl.handle.net/2123/33517). My work combines historical data analysis with political economy frameworks to illuminate long‑term economic dynamics.
 
 ---
 
 ## [Portfolio](/portfolio)
-A selection of projects spanning economic research, data systems architecture, geotechnical research, and applied analytics — from analysing global profitability trends to numerical simulation of geotechnical phenomena, developing offline‑first CRMs, and delivering strategic reporting for mission‑driven organisations.
-
----
-
-## [Collaborate](/collaborate)
-Through [Dianoetic](https://www.dianoetic.com.au), I partner with organisations on research and data strategy projects. My work includes supporting not‑for‑profits with database management, research, data analysis, and improving reporting processes. These collaborations focus on building practical data solutions and producing clear, actionable insights that strengthen decision‑making and impact.
+A selection of projects spanning economic research, data systems architecture, geotechnical research, and applied analytics: from analysing global profitability trends to numerical simulation of geotechnical phenomena, developing offline‑first CRMs, and delivering strategic reporting for mission‑driven organisations.
 
 ---
 
 ## Let’s Connect
-If you’re looking for economic insight, data analysis, or systems thinking that aligns with a mission for equitable futures, I’d be glad to talk.
+If you'd like to talk about my research or data work, get in touch.
 
 <br><br>
 <a href="/contact">Contact Me →</a>
