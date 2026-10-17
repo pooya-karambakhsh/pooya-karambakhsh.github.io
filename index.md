@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Home
+title: Pooya Karambakhsh | Political economist and data specialist 
+description: Political economist and data specialist in Sydney. Research on profitability and labour, and nonprofit data systems work since 2018.
 ---
 
 # *Economics, Research, and Data Analysis for Social Impact*
