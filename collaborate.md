@@ -26,6 +26,7 @@ I have 12 years of research experience and have worked in nonprofit data roles s
 - **Handover.** Documentation and training, so your team can run the system without me.
 - **Past results.** A Salesforce CRM built for a senior management team, saving over $50,000 against the projected development cost, and automation that reclaimed more than 500 staff hours a year at a nonprofit.
 - **Offline-first option.** For organisations that can't or won't use the cloud, see the Offline CRM demo in my [portfolio](/portfolio/).
+- **Pro bono.** I take on a small number of pro bono projects for small nonprofits. See [Dianoetic](https://www.dianoetic.com.au/services/).
 
 ## Get in touch
 
