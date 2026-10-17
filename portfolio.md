@@ -22,7 +22,7 @@ Mentored central bank research staff, led a methodological review of the headlin
 ### **Analysing the World Rate of Profit**  
 <img src="{{ '/assets/img/WRP.gif' | relative_url }}" alt="World Rate of Profit by Pooya Karambakhsh" class="float-right">
 *PhD Thesis, The University of Sydney (2024)*  
-Developed an approach to measuring and interpreting the world rate of profit, contributing to debates in political economy on global capital accumulation. The research combined historical data analysis with theoretical innovation, offering a framework for understanding long‑term profitability trends.
+Applied four definitions of the rate of profit to world economic datasets (Penn World Table, OECD, WIOD), using Python and Excel (VBA), and found a long-run downward trend. A related paper appeared in the *Review of Radical Political Economics* (2026).
 
 ### **The Powers of Australian Retail Workers**  
 *Published in Global Labour Journal, Vol. 11, Issue 2 (2020)*  
