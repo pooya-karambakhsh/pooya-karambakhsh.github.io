@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-description: Contact details for Pooya Karambakhsh: LinkedIn, email, Think Hammerly and Dianoetic.
+description: "How to contact Pooya Karambakhsh, with links to LinkedIn, Think Hammerly and Dianoetic"
 permalink: /contact/
 ---
 
