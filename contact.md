@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact | Pooya Karambakhsh
+title: Contact
 permalink: /contact/
 ---
 

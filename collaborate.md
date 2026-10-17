@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Consulting via Dianoetic | Pooya Karambakhsh
+title: Consulting via Dianoetic
 permalink: /collaborate/
 ---
 

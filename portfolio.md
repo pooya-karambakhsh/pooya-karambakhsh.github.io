@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Portfolio | Pooya Karambakhsh
+title: Portfolio
 permalink: /portfolio/
 ---
 

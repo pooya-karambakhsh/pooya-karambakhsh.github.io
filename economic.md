@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Economic Analysis and Publications | Pooya Karambakhsh
+title: Economic Analysis and Publications
 permalink: /economic/
 ---
 
