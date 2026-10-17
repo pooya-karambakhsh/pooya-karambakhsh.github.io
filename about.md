@@ -14,11 +14,13 @@ I'm a political economist and data specialist. My work covers labour dynamics, e
 
 ---
 
-## Current Work
+## Background
 
-Most recently, I worked as a Macroeconomics and Research Mentor at the National Reserve Bank of Tonga, supporting capacity building in research and analysis. This volunteer role built on over a decade of experience combining economic research with practical data work in the nonprofit and public sectors.
-Previously, I've held data and research positions at organisations including The Australia Institute, Dress for Success, Save the Children Australia, and Bobby Goldsmith Foundation, designing CRM systems, automating workflows, and producing strategic analysis to support programs serving disadvantaged communities.
-I also take on select consulting projects through [Dianoetic](https://www.dianoetic.com.au), focusing on economic research, database strategy, and systems integration for advocacy groups and nonprofits.
+Most recently, I worked as a Macroeconomics and Research Mentor at the National Reserve Bank of Tonga (2025 to 2026), a volunteer role through the DFAT-funded Australian Volunteers Program, supporting capacity building in research and analysis. I have 12 years of research experience and have worked in nonprofit data roles since 2018.
+
+Since 2018 I've held data and systems roles at The Australia Institute, Dress for Success, Save the Children Australia and Bobby Goldsmith Foundation, designing CRM systems, automating workflows and building reporting for programs serving disadvantaged communities. In 2025 I also did bibliometric research support at the University of Sydney.
+
+I run [Dianoetic](https://www.dianoetic.com.au), a new part-time consultancy for economic research and data systems work.
 
 ---
 
@@ -75,7 +77,7 @@ I also write on political economy at [Think Hammerly](https://thinkhammerly.word
 
 Modelled world profit rates using historical national accounts data spanning 70+ years
 Analysed Australian retail sector labour dynamics and global working-class power structures
-Supported public policy research on housing and inequality
+Bibliometric analysis of public housing research for a University of Sydney researcher (Web of Science, R)
 
 
 <u>Data Systems & Integration</u>
@@ -114,5 +116,5 @@ Basic: Tongan
 
 ---
 
-Interested in my work or exploring a collaboration?  
+Interested in my work?  
 [View Portfolio](/portfolio) • [Contact Me](/contact)
