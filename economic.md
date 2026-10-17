@@ -6,7 +6,7 @@ permalink: /economic/
 
 # Economic Analysis
 
-I am an economist and researcher with a PhD and MA (Research) in Political Economy from the University of Sydney.  
+I am a political economist and data specialist with a PhD and MA (Research) in Political Economy from the University of Sydney.  
 My work examines long‑term economic trends, labour issues, profit dynamics, and the theoretical frameworks that help explain patterns of capital accumulation.  
 This page offers a concise introduction to my academic and analytical work — for the full collection of essays, reviews, and in‑depth analyses, visit my blog *Think Hammerly*.
 
