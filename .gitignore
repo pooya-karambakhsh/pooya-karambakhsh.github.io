@@ -3,3 +3,23 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+
+# Bundler
+.bundle/
+
+# Secrets and keys
+.env
+.env.*
+*.pem
+*.key
+
+# OS and editor files
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Only if you use npm for anything
+node_modules/
