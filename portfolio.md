@@ -8,7 +8,7 @@ description: "Selected projects in economic research, data systems and geotechni
 
 My work bridges economic research, data systems and engineering. Projects range from analysing global profitability trends to central bank macroeconomic forecasting and modelling the behaviour of granular soils.
 
-For a complete history, download my [CV](/assets/docs/Pooya-Karambakhsh-CV.pdf) or visit my [LinkedIn profile](https://www.linkedin.com/in/pooya-karambakhsh).
+For a complete history, view my [CV](/cv) or visit my [LinkedIn profile](https://www.linkedin.com/in/pooya-karambakhsh).
 
 
 
@@ -76,5 +76,5 @@ Provided training, documentation, and strategic reporting to improve program ass
 
 ---
 
-### **Download Full CV**  
-For detailed employment history, publications, and technical skills, [download my CV](/assets/docs/Pooya-Karambakhsh-CV.pdf) or visit my [LinkedIn profile](https://www.linkedin.com/in/pooya-karambakhsh/).
+### **Full CV**  
+For detailed employment history, publications, and technical skills, [view my CV](/cv) or visit my [LinkedIn profile](https://www.linkedin.com/in/pooya-karambakhsh/).

@@ -10,17 +10,17 @@ permalink: /about/
 
 I'm a political economist and data specialist. My work covers labour dynamics, economic research, data systems design and capacity building for mission-driven organisations.
 
-[📄 Download CV (PDF)](/assets/docs/Pooya-Karambakhsh-CV.pdf) | [🔗 Connect on LinkedIn](https://www.linkedin.com/in/pooya-karambakhsh)
+[📄 View my CV (PDF)](/cv) | [🔗 Connect on LinkedIn](https://www.linkedin.com/in/pooya-karambakhsh)
 
 ---
 
 ## Background
 
-Most recently, I worked as a Macroeconomics and Research Mentor at the National Reserve Bank of Tonga (2025 to 2026), a volunteer role through the DFAT-funded Australian Volunteers Program, supporting capacity building in research and analysis. I have 12 years of research experience and have worked in nonprofit data roles since 2018.
+Most recently, I worked as a Macroeconomics and Research Mentor at the National Reserve Bank of Tonga (2025 to 2026), a volunteer role through the DFAT-funded Australian Volunteers Program, supporting capacity building in research and analysis. I have 12 years of research experience, volunteered in policy and advocacy from 2016 and have held paid nonprofit data roles since 2018.
 
-Since 2018 I've held data and systems roles at The Australia Institute, Dress for Success, Save the Children Australia and Bobby Goldsmith Foundation, designing CRM systems, automating workflows and building reporting for programs serving disadvantaged communities. In 2025 I also did bibliometric research support at the University of Sydney.
+Since 2018 I've held data and systems roles at Just Reinvest NSW, The Australia Institute, Dress for Success, Save the Children Australia and Bobby Goldsmith Foundation. I’ve built data pipelines, integrations and automation, analysis and reporting, and the CRM systems behind them, and I get insights in front of executives and frontline staff alike, for programs serving disadvantaged communities.
 
-I run [Dianoetic](https://www.dianoetic.com.au), a new part-time consultancy for economic research and data systems work.
+I run [Dianoetic](https://www.dianoetic.com.au), a part-time consultancy for economic research and data work, mainly for nonprofits. I also take on pro bono projects.
 
 ---
 

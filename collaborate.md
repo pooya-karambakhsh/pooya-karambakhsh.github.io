@@ -7,9 +7,9 @@ permalink: /collaborate/
 
 # Consulting
 
-[Dianoetic](https://www.dianoetic.com.au) is my new, part-time consultancy for research, policy analysis and nonprofit data work. Availability is limited.
+[Dianoetic](https://www.dianoetic.com.au) is my part-time consultancy for research, policy analysis and data work, mainly for nonprofits. I also take on pro bono projects for small organisations. Availability is limited.
 
-I have 12 years of research experience and have worked in nonprofit data roles since 2018, mostly as an employee, with some short project roles. I know the constraints small teams work under: limited budget, mixed technical skills, and funder reporting that has to be right.
+I have 12 years of research experience and have worked in nonprofit data roles since 2016, mostly as an employee, with some short project roles. I know the constraints small teams work under: limited budget, mixed technical skills, and funder reporting that has to be right.
 
 ## Experience in
 
