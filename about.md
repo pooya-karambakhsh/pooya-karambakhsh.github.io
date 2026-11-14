@@ -10,7 +10,7 @@ permalink: /about/
 
 I'm a political economist and data specialist. My work covers labour dynamics, economic research, data systems design and capacity building for mission-driven organisations.
 
-[📄 View my CV (PDF)](/cv) | [🔗 Connect on LinkedIn](https://www.linkedin.com/in/pooya-karambakhsh)
+[📄 View my CV](/cv) | [🔗 Connect on LinkedIn](https://www.linkedin.com/in/pooya-karambakhsh)
 
 ---
 

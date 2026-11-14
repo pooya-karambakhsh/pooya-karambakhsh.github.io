@@ -1,6 +1,5 @@
 ---
 ---
-@use "sass:color";
 
 /* =========================
    Colour Palette Variables
@@ -47,10 +46,10 @@ header,
 footer {
   background-color: $highlight;
   padding: 1rem 2rem;
-  border-bottom: 1px solid color.adjust($accent, $lightness: 50%);
+  border-bottom: 1px solid lighten($accent, 50%);
 
   &:last-of-type {
-    border-top: 1px solid color.adjust($accent, $lightness: 50%);
+    border-top: 1px solid lighten($accent, 50%);
     border-bottom: none;
   }
 }
@@ -71,7 +70,7 @@ main {
   align-items: center;
   padding: 1.5rem 2rem;
   background-color: $highlight;
-  border-bottom: 1px solid color.adjust($accent, $lightness: 50%);
+  border-bottom: 1px solid lighten($accent, 50%);
   flex-wrap: nowrap; /* prevent wrapping so menu stays on same line */
 }
 
@@ -177,7 +176,7 @@ main {
 
     a {
       padding: 0.75rem 1rem;       /* consistent horizontal padding */
-      border-bottom: 1px solid color.adjust($accent, $lightness: 60%);
+      border-bottom: 1px solid lighten($accent, 60%);
       width: 100%;                 /* ensure clickable area spans full menu */
       box-sizing: border-box;
     }
@@ -189,7 +188,7 @@ main {
 
   .nav.active {
     display: flex;
-    border-top: 1px solid color.adjust($accent, $lightness: 50%);
+    border-top: 1px solid lighten($accent, 50%);
     background-color: $highlight;
   }
 }
@@ -251,7 +250,7 @@ h3:first-child {
 hr {
   margin: 2rem 0;
   border: none;
-  border-top: 1px solid color.adjust($accent, $lightness: 50%);
+  border-top: 1px solid lighten($accent, 50%);
 }
 
 /* =========================
@@ -284,7 +283,7 @@ hr {
     margin: 0 0 1em;
     font-weight: 400;
     font-size: 1.3rem;
-    color: color.adjust($accent, $lightness: 20%);
+    color: darken($accent, 20%);
   }
 
   .hero-text p {
@@ -299,7 +298,7 @@ hr {
     color: $secondary-accent;
 
     &:hover {
-      color: color.adjust($secondary-accent, $lightness: -10%);
+      color: darken($secondary-accent, 10%);
     }
   }
 
@@ -331,7 +330,7 @@ hr {
 
   &:hover,
   &:focus {
-    background-color: color.adjust($secondary-accent, $lightness: -10%);
+    background-color: darken($secondary-accent, 10%);
   }
 }
 

@@ -21,10 +21,10 @@ Political economist and data specialist based in Sydney. PhD in Political Econom
 
 - **Data Systems Specialist**, Just Reinvest NSW, Sydney (Sep 2026 – present). Serving Aboriginal communities in reducing contact with the justice system.
 - **Macroeconomics and Research Mentor**, National Reserve Bank of Tonga (Sep 2025 – Jun 2026). Capacity building in macroeconomic research and analysis, through the DFAT-funded Australian Volunteers Program.
-- **Database Specialist**, The Australia Institute, Canberra (Jan – Jul 2025). Built a Salesforce CRM for the senior management team. <!-- CONFIRM: part-time or contract? Overlaps USyd and Dress for Success. -->
-- **Research Officer**, The University of Sydney (Apr – Jul 2025). Public housing research support, including bibliometric analysis in R using Web of Science. <!-- CONFIRM: casual or part-time? -->
+- **Database Specialist**, The Australia Institute, Canberra (Jan – Jul 2025). Built a CRM for the senior management team.
+- **Research Officer**, The University of Sydney (Apr – Jul 2025). Public housing research support, including bibliometric analysis in R using Web of Science. 
 - **Data and Systems Manager**, Dress for Success (NSW & ACT), Sydney (Jun 2023 – Jun 2025). Led Salesforce CRM enhancements, automated more than 500 hours of manual work a year, and built integrations between Salesforce, Mailchimp, Funraisin, Calendly, Zapier and Humanitix. Organisation supporting women to secure and retain employment.
-- **Business & Programs Data Analyst**, Save the Children Australia, Sydney (Mar 2019 – Jun 2022). Programs supporting underprivileged children and families. <!-- CONFIRM: overlaps Bobby Goldsmith by over a year; label part-time if so. -->
+- **Business & Programs Data Analyst**, Save the Children Australia, Sydney (Mar 2019 – Jun 2022). Programs supporting underprivileged children and families. 
 - **Data Analyst / Database Administrator**, Bobby Goldsmith Foundation, Sydney (Apr 2018 – Jul 2020). Support for people living with HIV.
 
 Across these roles: CRM design and implementation, ETL migration from legacy systems to Salesforce, data pipelines and system integrations (Zapier, Python, Power Automate), Power BI reporting, and compliance reporting to government funders (DSS, FACS/DCJ). More detail on the [portfolio page](/portfolio/).
@@ -65,7 +65,7 @@ Volunteer policy and advocacy work from 2016, before paid nonprofit data work be
 
 - **Analysis and visualisation:** Python, R, SQL, Power BI, Tableau
 - **Econometrics:** EViews, Python
-- **Bibliometrics:** R (tidyverse, Bibliometrix), Web of Science
+- **R (tidyverse, Bibliometrix):** data pipelines, tidy data, visualisation, bibliometric analysis
 - **CRM and automation:** Salesforce, NationBuilder, Zapier, Power Automate
 - **Data management:** ETL design, data pipelines, system integrations, database architecture
 - **Research methods:** quantitative analysis, survey design, literature synthesis
